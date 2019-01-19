@@ -1,6 +1,6 @@
 +++
 title = "Explaining Individual Differences in Reading"
-date = 2019-01-17T21:16:47-05:00
+date = 2011-01-17T21:16:47-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,12 +15,12 @@ authors = ["Brady, S.", "Braze, D.", "Fowler, C. A."]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Psychology Press"
+publication_short = "Psychology Press"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "Research into reading development and reading disabilities has been dominated by phonologically guided theories for several decades. In this volume, the authors of 11 chapters report on a wide array of current research topics, examining the scope, limits and implications of a phonological theory.The chapters are organized in four sections. The first concerns the nature of the relations between script and speech that make reading possible, considering how different theories of phonology may illuminate the implication of these relations for reading development and skill. The second set of chapters focuses on phonological factors in reading acquisition that pertain to early language development, effects of dialect, the role of instruction, and orthographic learning. The third section identifies factors beyond the phonological that may influence success in learning to read by examining cognitive limitations that are sometimes co-morbid with reading disabilities, contrasting the profiles of specific language impairment and dyslexia, and considering the impact of particular languages and orthographies on language acquisition. Finally, in the fourth section, behavioral-genetic and neurological methods are used to further develop explanations of reading differences and early literacy development.The volume is an essential resource for researchers interested in the cognitive foundations of reading and literacy, language and communication disorders, or psycholinguistics; and those working in reading disabilities, learning disabilities, special education, and the teaching of reading"
+abstract_short = " In this volume, the authors of 11 chapters report on a wide array of current research topics, examining the scope, limits and implications of a phonological theory."
 
 # Is this a selected publication? (true/false)
 selected = true
