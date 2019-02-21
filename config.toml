@@ -289,8 +289,8 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Research"
-  url = "/research/"
+  name = "Collaborators"
+  url = "/collaborators/"
   weight = 1
 
 [[menu.main]]
