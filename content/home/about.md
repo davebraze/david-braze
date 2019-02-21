@@ -33,6 +33,17 @@ weight = 1
  
 +++
 
-# Biography
+I do research in the areas of language, literacy, and cognition, and their
+application to education. I have wide experience with behavioral
+and neurocognitive methods, including standardized cognitive and language
+assessments, neuroimaging, and eye-tracking. I am always looking for
+interesting collaborations. Drop me a note if you want to talk about
+working together.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My responsibilities at Haskins Labs include: program development, project
+management, grant writing, research design, data monitoring and validation,
+data analysis, and presentation of research findings to professional and
+lay audiences.
+
+I also provide consultation to NGOs, government, and industry on matters
+related to my research interests. Reach out if you would like to learn more.
