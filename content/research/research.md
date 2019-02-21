@@ -1,6 +1,6 @@
 +++
 widget = "content"
-active = true
+active = false
 date = 2019-01-15T00:00:00
 weight = 1
 title= "Research"
