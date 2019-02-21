@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "braze@haskinslabs.org"
+  email = "dave.braze@haskinslabs.org"
   address = "300 George Street, Ste. 900, New Haven, CT 06511"
   office_hours = ""
   phone = "(203) 865-6163 x241"
@@ -250,7 +250,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:braze@haskinslabs.org"
+    link = "mailto:dave.braze@haskinslabs.org"
 
   [[params.social]]
     icon = "twitter"
