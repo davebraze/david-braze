@@ -3,7 +3,7 @@ widget = "contact"
 active = true
 date = 2018-04-20T00:00:00
 title = "Contact"
-subtitle = "Available for consultation work"
+subtitle = ""
 weight = 1
 autolink = true
 
@@ -11,11 +11,13 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 1
+#		email_form = 1
 +++
 
-If you're interested in hiring me as a consultant, or if you have any other questions, fill out the form below. 
+Dave Braze\
+c/o  [Haskins Laboratories](https://www.haskinslabs.org) 300 George Street, Ste. 900\
+ New Haven , CT 06511
 
-If you'd prefer, you can call or email me: braze at haskinslab.org.
-
-I'll get back to you as soon as I can.
+Phone: (203) 865-6163 x241\
+Fax: (203) 865-8963\
+Email: dave.braze AT  haskinslabs.org
