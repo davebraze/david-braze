@@ -1,0 +1,42 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Selected Publications widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}
+    <p>{{ . | markdownify }}</p>
+    {{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}
+    <p>{{ . | markdownify }}</p>
+    {{ end }}
+
+    {{ $.Scratch.Set "edited_volumes" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice "1")) }}
+    {{ $.Scratch.Set "papers_chapters" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice "2")) }}
+    {{ $.Scratch.Set "manuscripts_presentations" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice "3")) }}
+    {{ $edited_volumes := $.Scratch.Get "edited_volumes" }}
+    {{ $papers_chapters := $.Scratch.Get "papers_chapters" }}
+    {{ $manuscripts_presentations := $.Scratch.Get "manuscripts_presentations" }}
+    <span class="publication_type">Latest Papers and Chapters</span>
+    {{ range first 1 $papers_chapters }}
+    {{if .}}
+    {{ partial "publication_li_apa" . }}
+    {{ end }}
+    {{ end }}
+    {{ range first 1 $manuscripts_presentations }}
+    {{if .}}
+    <span class="publication_type">Latest Manuscripts and Presentations</span>
+    {{ partial "publication_li_apa" . }}
+    {{ end }}
+    {{ end }}
+    <span class="publication_type">Latest Edited Volumes</span>
+    {{ range first 1 $edited_volumes }}
+    {{if .}}
+    {{ partial "publication_li_apa" . }}
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
