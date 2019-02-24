@@ -174,10 +174,10 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = []
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = false
+  sharing = true
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -197,7 +197,7 @@ enableGitInfo = false
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-   'Uncategorized',  # 0
+    'Uncategorized',  # 0
     'Edited Volumes',  # 1
     'Papers and Chapters',  # 2
     'Manuscripts and Presentations',  # 3
@@ -266,12 +266,6 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/davebraze"
-
-  [[params.social]]
-    icon = "arxiv"
-    icon_pack = "ai"
-    link = "https://psyarxiv.com/discover?q=%22david%20braze%22"
-
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
