@@ -1107,12 +1107,59 @@ article .article-metadata {
 .pub-list-item .btn-links {
   padding-top: 10px;
 }
+.pub-list-item {
+  display:flex;
+  width: 100%;
+  flex-flow: row nowrap;
+}
+
+.publication {
+  font-style:italic;
+}
+
+.publication_type {
+  font-size: 15px;
+  color: #888;
+  font-weight: 200;
+}
 
 #container-publications {
   display: block;
   position: relative;
   overflow: hidden;
 }
+
+.innercard {
+border: 1px solid rgb(213, 213, 213);
+/* max-width: 36rem; */
+width: 100%;
+border-radius: 5px;
+padding: 1rem;
+padding-top: 0;
+font-size: 16px;
+background-color: white;
+box-shadow: 2px 1px 7px rgba(31, 31, 31, 0.139);
+transition: all .5s ease;
+}
+
+.innercard:hover {
+  border: 1px solid rgb(186, 186, 186);
+  box-shadow: 2px 1px 7px rgba(31, 31, 31, 0.283);
+  }
+
+  .pub-type-tag{
+font-size: 14px;
+text-transform: uppercase;
+letter-spacing: 1px;
+margin-bottom: .5rem;
+display: flex;
+flex-flow: row nowrap;
+justify-content: flex-end;
+  }
+
+  .pub-type-tag.edited-volumes{color: rgba(128, 0, 0, 0.481);}
+  .pub-type-tag.papers-chapters{color: rgba(23, 189, 28, 0.481);}
+  .pub-type-tag.manuscripts-presentations{color: rgba(9, 158, 203, 0.481);}
 
 /*************************************************
  * Experience

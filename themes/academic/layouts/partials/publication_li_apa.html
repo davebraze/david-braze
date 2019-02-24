@@ -1,16 +1,54 @@
-<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    {{ with .Params.authors }}
+<div
+  class="pub-list-item"
+  style="margin-bottom: 1rem"
+  itemscope
+  itemtype="http://schema.org/CreativeWork"
+>
+  <div class="innercard">
+    {{ if in .Params.publication_types "1" }}
+    <div class="pub-type-tag edited-volumes">
+      Edited Volumes
+    </div>
+    {{ end }}
+
+    {{ if in .Params.publication_types "2" }}
+    <div class="pub-type-tag papers-chapters">
+      Papers and Chapters
+    </div>
+    {{ end }}
+
+    {{ if in .Params.publication_types "3" }}
+    <div class="pub-type-tag manuscripts-presentations">
+      Manuscripts and Presentations
+    </div>
+    {{ end }}
+    {{ if .Params.bibliography }}
+    {{ .Params.bibliography | markdownify }}
+    {{ else }}
+    <span itemprop="author">
+      {{ with.Params.authors }}
       {{- delimit . ", " | markdownify -}}
-    {{- end -}}
-  </span>
-  ({{- .Date.Format "2006" -}}).
-  <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
-  {{ if .Params.publication_short }}
-    {{- .Params.publication_short | markdownify -}}.
-  {{ else if .Params.publication }}
-    {{- .Params.publication | markdownify -}}.
-  {{ end }}
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
+      {{- end -}}
+    </span>
+    ({{- .Date.Format "2006" -}}).
+    <a href="{{ .RelPermalink }}" itemprop="name"> {{ .Title }}</a
+    >.
+    <span class="publication">
+      {{ if .Params.publication_short }}
+      {{- .Params.publication_short | markdownify -}}.
+      {{ else if .Params.publication }}
+      {{- .Params.publication | markdownify -}}.
+      {{ end }}
+    </span>
+
+    {{ if .Params.publisher }}
+    <span class="publisher"> {{- .Params.publisher | markdownify -}}. </span>
+    {{ end }}
+    {{ if .Params.pages }}
+    <span class="pages"> {{- .Params.pages | markdownify -}}. </span>
+    {{ end }}
+    {{ end }}
+
+    <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
+  </div>
 </div>
