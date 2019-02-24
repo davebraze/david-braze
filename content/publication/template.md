@@ -2,7 +2,7 @@
 bibliography = ""
 date = 2019-01-01
 # url_custom = [{name = "", url = ""}]
-draft=false
+draft=true
 # Publication type.
 # Legend:
 # 0 = Uncategorized
