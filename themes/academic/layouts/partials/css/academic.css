@@ -1157,9 +1157,9 @@ flex-flow: row nowrap;
 justify-content: flex-end;
   }
 
-  .pub-type-tag.edited-volumes{color: rgba(128, 0, 0, 0.481);}
-  .pub-type-tag.papers-chapters{color: rgba(23, 189, 28, 0.481);}
-  .pub-type-tag.manuscripts-presentations{color: rgba(9, 158, 203, 0.481);}
+  .pub-type-tag.edited-volumes{color: rgba(96, 22, 22, 0.919);}
+  .pub-type-tag.papers-chapters{color: rgba(32, 111, 35, 0.954);}
+  .pub-type-tag.manuscripts-presentations{color: rgb(17, 109, 136);}
 
 /*************************************************
  * Experience
