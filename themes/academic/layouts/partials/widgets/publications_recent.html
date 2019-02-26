@@ -20,7 +20,6 @@
     {{ $edited_volumes := $.Scratch.Get "edited_volumes" }}
     {{ $papers_chapters := $.Scratch.Get "papers_chapters" }}
     {{ $manuscripts_presentations := $.Scratch.Get "manuscripts_presentations" }}
-    <span class="publication_type">Latest Papers and Chapters</span>
     {{ range first 1 $papers_chapters }}
     {{if .}}
     {{ partial "publication_li_apa" . }}
@@ -28,11 +27,9 @@
     {{ end }}
     {{ range first 1 $manuscripts_presentations }}
     {{if .}}
-    <span class="publication_type">Latest Manuscripts and Presentations</span>
     {{ partial "publication_li_apa" . }}
     {{ end }}
     {{ end }}
-    <span class="publication_type">Latest Edited Volumes</span>
     {{ range first 1 $edited_volumes }}
     {{if .}}
     {{ partial "publication_li_apa" . }}
