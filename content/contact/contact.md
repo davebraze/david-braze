@@ -17,7 +17,3 @@ autolink = true
 Dave Braze\
 c/o  [Haskins Laboratories](https://www.haskinslabs.org) 300 George Street, Ste. 900\
  New Haven , CT 06511
-
-Phone: (203) 865-6163 x241\
-Fax: (203) 865-8963\
-Email: dave.braze AT  haskinslabs.org
