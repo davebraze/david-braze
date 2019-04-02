@@ -15,5 +15,6 @@ autolink = true
 +++
 
 Dave Braze\
-c/o  [Haskins Laboratories](https://www.haskinslabs.org) 300 George Street, Ste. 900\
- New Haven , CT 06511
+c/o  [Haskins Laboratories](https://www.haskinslabs.org)\
+300 George Street, Ste. 900\
+New Haven, CT 06511
