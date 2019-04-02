@@ -1,7 +1,7 @@
 +++
 widget = "contact"
 active = true
-date = 2018-04-20T00:00:00
+date = 2019-04-02T00:00:00
 title = "Contact"
 subtitle = ""
 weight = 1
