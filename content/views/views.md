@@ -1,20 +1,35 @@
 +++
 widget = "content"
 active = true
-date = 2019-01-15T00:00:00
+date = 2019-04-02T00:00:00
 title="The Big Picture"
-subtitle = "Views on Psycholinguistics"
+subtitle = ""
 weight = 1 
 +++
 
-Psycholinguistics is concerned with characterizing the human capacity for language in both it's psychological and social contexts.
+***All people use language***, or will learn to use it, with a few
+exceptions. If a baby is neurologically "typical", and has reasonable
+exposure to the language of others, it is sure to acquire the language(s)
+of its community.
 
-A central goal of the language and cognitive sciences is to provide a theoretical account of the structures, capacities and processes that underlie language acquisition, including features of production and comprehension in each developmental state.
+A central goal of the language and cognitive sciences is to explain the
+capacities and processes that provide for ***language acquisition***,
+including features of production and comprehension in each developmental
+state.
 
-This implies that a focus on language in its psychological aspect is primary.
+Any real explanation of language abilities must cover ***individual
+variation***, including both "normal" variation and disordered
+language. So, the mental aspects of language use and language acquisition
+are primary. But, a complete explanation should also address how language
+is used for actual communication.
 
-However, a complete theory must address language use in real communicative contexts.
+People in literate societies, like ours, often think of the ability to
+write and to read as a part of language, inseparable from it, but it
+isn't. Actually, ***writing and reading are "language-adjacent"
+skills***. They come after language, and they depend on language, but they
+don't come nearly as easily as speaking, or understanding speech.
 
-Moreover, we should be careful to consider language specific capacities within a broad cognitive framework.
+Understanding the how and why of this basic truth about writing and reading
+is one of the most ***important goals of my research***.
 
-A complete theory must explain individual variation in linguistic ability, including both 'normal' variation and disordered language.
+**More to come....**
