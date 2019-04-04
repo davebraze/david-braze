@@ -1,7 +1,7 @@
 +++
 bibliography = "Braze, D., & Gong, T. (2018). Orthography, Word Recognition, and Reading. In E. M. Fernandez & H. Cairns (Eds.), *Handbook of Psycholinguistics*: Wiley-Blackwell"
 date = 2018-02-17
-# url_custom = [{name = "Preprint", url = "https://psyarxiv.com/jqeyf/"}]
+url_custom = [{name = "Preprint", url = "https://psyarxiv.com/jqeyf/"}]
 draft=false
 # Publication type.
 # Legend:
