@@ -1,7 +1,7 @@
 +++
 title = "Demo Blog Post"
 date = 2019-01-18
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["David Braze"]
@@ -14,13 +14,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -34,7 +34,7 @@ This is a demo blog post.
 
 You can use this as a template for blog posts in the future. To hide it, just set `draft` to `false` in the file.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nec dui nunc mattis enim ut tellus. Pharetra convallis posuere morbi leo urna. In vitae turpis massa sed elementum. Imperdiet sed euismod nisi porta lorem mollis aliquam. Eget dolor morbi non arcu risus quis varius quam. Dolor sit amet consectetur adipiscing elit. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Ipsum faucibus vitae aliquet nec ullamcorper. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nec dui nunc mattis enim ut tellus. Pharetra convallis posuere morbi leo urna. In vitae turpis massa sed elementum. Imperdiet sed euismod nisi porta lorem mollis aliquam. Eget dolor morbi non arcu risus quis varius quam. Dolor sit amet consectetur adipiscing elit. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Ipsum faucibus vitae aliquet nec ullamcorper.
 
 Pellentesque elit eget gravida cum. Diam sit amet nisl suscipit adipiscing bibendum est. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Adipiscing commodo elit at imperdiet. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse. Donec ultrices tincidunt arcu non sodales neque sodales. Morbi enim nunc faucibus a pellentesque sit. Etiam sit amet nisl purus in mollis. Id ornare arcu odio ut sem nulla pharetra diam.
 
