@@ -13,10 +13,9 @@ language of others, is sure to acquire the language(s) of its
 community. In fact, even in the face of many physical or intellectual
 challenges, language emerges.
 
-Any real explanation of language abilities must cover ***individual
-variation***, how people differ in their abilities, including both
-"normal" variation and disordered language. So, the mental aspects of
-language use and language acquisition are primary. But, a complete
+Any real explanation of language abilities must cover individual
+variation, how ***people differ in their abilities***, including both
+"normal" variation and disordered language. More, a complete
 explanation must also address how language is used for actual
 communication, and how well it supports other abilites that depend on
 it.
@@ -29,6 +28,6 @@ they don't come nearly as easily or naturally as speaking and
 understanding speech.
 
 Understanding the how and why of this basic truth about writing and
-reading is an ***important goal of my research***.
+reading is ***an important goal of my research***.
 
 **More to come....**
