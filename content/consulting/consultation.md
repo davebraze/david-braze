@@ -7,16 +7,18 @@ title="Consulting"
 weight = 2
 +++
 
-I am available for consultation on the topics of Lorem ipsum dolor sit
-amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua.
+I provide consultation to non-profit organizations, government, and
+industry on matters related to my research interests. Reach out if you
+would like to learn more.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat.
++ Consultant, [Intelexia](www.intelexia.com) and the *Red de Escuelas
+  de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
++ Consultant, Pennsylvania Department of Education, Bureau of Special
+  Ed.,
+  [Dyslexia & Early Literacy Intervention Pilot Program](papilot.org).
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-officia deserunt mollit anim id est laborum.
++ Consultant, [LiteracyHow](www.literacyhow.com) and
+  [Read to Grow](www.readtogrow.org).
+
 
