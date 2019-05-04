@@ -1,6 +1,5 @@
 +++
-title = "Recommended Book: *Randomistas: How Radical Researchers Are Changing Our World*, by
-  Andrew Leigh"
+title = "Recommended Book: *Randomistas: How Radical Researchers Are Changing Our World*, by Andrew Leigh"
 date = 2019-05-04
 draft = true
 authors = ["David Braze"]
