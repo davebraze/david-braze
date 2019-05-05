@@ -3,7 +3,7 @@ title = "Recommended Book: *Randomistas: How Radical Researchers Are Changing Ou
 date = 2019-05-04
 draft = true
 authors = ["David Braze"]
-tags = ["parents", "teachers", "educators", "evidence", "books", "randomized controlled trials"]
+tags = ["parents", "teachers", "educators", "evidence", "books", "randomized controlled trials", "research", "education"]
 categories = ["recommended reading"]
 
 +++
@@ -15,7 +15,7 @@ spells out in plain language just what it is, how it works, and why
 it is considered the gold standard for evidence of how things work
 in education and many other areas of research.
 
-The book is written with a popular audience in mind and readers
+The book is written with a general audience in mind and readers
 won't need any special background to come away with a new
 appreciation for randomized trials and the evidence they provide for
 what is and isn't effective in educational policy and classroom
@@ -33,7 +33,10 @@ whether benefits of a program are real, or just wishful thinking.
 
 I recommend this book for parents, teachers, other educators, and
 anyone interested in learning more about the buzz around
-evidence-based education, and the importance of projects like the
-U.S. Department of Education's *What Works Clearinghouse* and the
-independent *Education Endowment Fund*.
+evidence-based education, and the importance of evidence aggregators
+like the U.S. Department of Education's
+[*What Works Clearinghouse*](https://ies.ed.gov/ncee/wwc/) and the
+independent
+[*Education Endowment Foundation*](https://educationendowmentfoundation.org.uk/)
+in the UK.
    
