@@ -7,10 +7,15 @@ authors = ["David Braze"]
 
 # Tags and categories
 
-# For example, use `tags = []` for no tags, or the form `tags =
+# Tags are for labeling "features" of a post in a more fine-grained way.
+# Use `tags = []` for no tags, or the form `tags =
 #  ["A Tag", "Another Tag"]` for one or more tags.
 
-tags = ["parents", "teachers", "educators", "evidence", "books", "randomized controlled trials"]
+tags = []
+
+# categories are (maybe?) hierarchical and specify broad categories of
+# posts.
+
 categories = ["recommended reading"]
 
 # Featured image
