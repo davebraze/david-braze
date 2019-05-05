@@ -8,8 +8,9 @@ weight = 2
 +++
 
 I provide consultation to non-profit organizations, government, and
-industry on matters related to my research interests. Reach out if you
-would like to learn more.
+industry on matters related to my research interests. Generally, this
+is done on a fee-for-service basis, although I do occasional *pro bono*
+work, as well. Reach out if you would like to learn more.
 
 + Consultant, [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
@@ -28,11 +29,14 @@ would like to learn more.
   direction, and administration.
   
 + Consultant, [LiteracyHow](www.literacyhow.com) and
-  [Read to Grow](www.readtogrow.org).
+  [New Haven Reads](www.NewHavenReads.org).
 
-  Strategic and Analytic consultant for New Haven Reads, a 501c3
-  non-profit (www.NewHavenReads.org). Provided analysis of client data for
-  evaluation of program effectiveness, and strategic advice for program
-  development.
+  Analytic consultant for New Haven Reads, a 501c3 non-profit (New
+  Haven Reads). Provided analysis of client data for evaluation of
+  program effectiveness as part of grant wrap-up.
 
++ Consultant, [Read to Grow](www.readtogrow.org).
+
+  Provided *pro bono* advice on standards for data collection and
+  storage. 
 
