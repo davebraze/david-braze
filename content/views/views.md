@@ -20,14 +20,17 @@ explanation must also address how language is used for actual
 communication, and how well it supports other abilites that depend on
 it.
 
-People in literate societies, like ours, often think of the abilities to
-write and to read as a part of language, inseparable from it, but they
-aren't. Actually, ***writing and reading are "language-adjacent"
-skills***. They come after language, and they depend on language, but
-they don't come nearly as easily or naturally as speaking and
-understanding speech.
+People in literate societies, like ours, often think of the abilities
+to write and to read as a part of language. They are often considered
+the most important parts of language, but they aren't. Actually,
+***writing and reading are "language-adjacent" skills***. They come
+after language, and they depend on language, but they don't come
+nearly as easily or naturally as speaking and understanding
+speech. Language gets along just fine without writing or reading, but
+the opposite is not true.
 
 Understanding the how and why of this basic truth about writing and
-reading is ***an important goal of my research***.
+reading, and its implications for education, is ***an important goal
+of my research***.
 
 **More to come....**
