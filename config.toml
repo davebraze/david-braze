@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "davebraze"
+  twitter = "davidbraze"
 
   # Display a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -293,8 +293,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "/publication/"
+  name = "Consulting"
+  url = "/consulting/"
   weight = 3
 
 [[menu.main]]
@@ -303,14 +303,19 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 5
+
+[[menu.main]]
   name = "Collaborators"
   url = "/collaborators/"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
