@@ -1,6 +1,6 @@
 +++
 widget = "content"
-active = false
+active = true
 date = 2019-01-15T00:00:00
 title="Consulting"
 # subtitle = ""
@@ -9,8 +9,8 @@ weight = 2
 
 I provide consultation to non-profit organizations, government, and
 industry on matters related to my research interests. Generally, this
-is done on a fee-for-service basis, although I do occasional *pro bono*
-work, as well. Reach out if you would like to learn more.
+is done on a fee-for-service basis, although I take on occasional *pro
+bono* work, as well. Reach out if you would like to learn more.
 
 + Consultant, [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
