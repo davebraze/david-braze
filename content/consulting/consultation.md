@@ -14,8 +14,7 @@ bono* work, as well. Reach out if you would like to learn more.
 
 + Consultant, [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
-  
-  Advise on study design, data collection, and analysis for program
+  <br><br> Advise on study design, data collection, and analysis for program
   efficacy study carried out in collaboration with the *Red de Escuelas de
   Aprendizaje de la Provincia de Buenos Aires*, Argentina.
 
