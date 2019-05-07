@@ -15,4 +15,3 @@ I am available to make a presentation to your group, to host a visit
 to Haskins Labs, or just to chat about research into literacy and
 language, or the connections between research and classroom practices
 and educational policy.
-

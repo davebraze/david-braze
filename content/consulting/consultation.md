@@ -10,7 +10,8 @@ weight = 2
 I provide consultation to non-profit organizations, government, and
 industry on matters related to my research interests. Generally, this
 is done on a fee-for-service basis, although I take on occasional *pro
-bono* work, as well. Reach out if you would like to learn more.
+bono* work, as well. [Get in touch](#consulting) if you would like to
+learn more.
 
 + [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
