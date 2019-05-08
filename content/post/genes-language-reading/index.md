@@ -1,0 +1,47 @@
++++
+title = "Language and Reading and Genes"
+date = 2019-05-08T00:00:00
+draft = false
+authors = ["David Braze"]
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["genetics", "language", "speech", "reading"]
+
+## Choose from "Language & Reading", "Recommended Reading"
+categories = ["Language & Reading"]
+
++++
+
+What value does genetic testing bring to the table for reading
+education, or education in general?
+
+Email from Diane Reott on April 22, 2019, which led me to this
+website: https://www.cognitivegenetics.com/ . The crux of the issue is
+that the organization behind the site promises genetic testing for RD
+that will presumably add-value for those afflicted in the sense of
+affording early detection and intervention. The question Diane raised
+is whether that is reasonable or a "scam". I note that the web site
+does include 2 credible reading researchers on its advisory board, Jan
+Frijters and Maureen Lovett. My response to Diane was that she should
+be very skeptical.
+
+A few weeks after that exchange, I came across a paper that points up
+significant problems with research tying genes to outcomes, here: 
+https://dx.doi.org/10.1176/appi.ajp.2018.18070881
+https://sci-hub.tw/10.1176/appi.ajp.2018.18070881
+
+There is an extended comment on the paper here:
+https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/ .
+
+This paper addresses the role of a specific set of
+[genetic polymorphisms](https://en.wikipedia.org/wiki/Gene_polymorphism)
+to depression. The argument presented there *against* any practical
+value in such relationships as genetic biomarkers is compelling, and I
+feel carries over to the domain of *Language and Reading and Genes*.
+
+A commentary by Dorothy Bishop, in a more closely connected domain,
+but evincing similar skepticism, can be found here:
+https://www.slideshare.net/deevybishop/biomarkers-for-psychological-phenotypes
+.
+
