@@ -18,7 +18,7 @@ education and many other areas of research.
 The book is written with a general audience in mind, and readers
 won't need any special background to come away with a new
 appreciation for randomized trials and the evidence they provide for
-what is and isn't effective in educational policy and classroom
+what is or isn't effective in educational policy and classroom
 practice. That said, the book does not focus on educational research
 in particular. It is about randomized trials in general, and that is
 one of its strengths. 
