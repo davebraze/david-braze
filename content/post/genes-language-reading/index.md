@@ -3,12 +3,7 @@ title = "Language and Reading and Genes"
 date = 2019-05-08T00:00:00
 draft = true
 authors = ["David Braze"]
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["genetics", "language", "speech", "reading"]
-
-## Choose from "Language & Reading", "Recommended Reading"
 categories = ["Language & Reading"]
 
 +++
