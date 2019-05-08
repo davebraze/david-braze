@@ -1,6 +1,7 @@
 +++
 title = "Recommended Book"
 subtitle = "*Randomistas: How Radical Researchers Are Changing Our World*, by Andrew Leigh"
+slug: "Randomistas"
 date = 2019-05-07
 draft = false
 authors = ["David Braze"]
@@ -10,8 +11,8 @@ categories = ["recommended reading"]
 +++
 
 Evidence-based learning is the buzz word of the last few
-years. Andrew Leigh's *Randomistas* digs in to one of the most
-important forms of evidence, the *randomized controlled trial*, and
+years. Andrew Leigh's ***Randomistas*** digs in to one of the most
+important forms of evidence, the "randomized controlled trial", and
 spells out in plain language just what it is, how it works, and why
 it is considered the gold standard for evidence of how things work
 in education and many other areas of research.
@@ -36,8 +37,8 @@ I recommend this book for parents, teachers, other educators, and
 anyone interested in learning more about the buzz around
 evidence-based education, and the importance of evidence aggregators
 like the U.S. Department of Education's
-[*What Works Clearinghouse*](https://ies.ed.gov/ncee/wwc/) and the
+[What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) and the
 independent
-[*Education Endowment Foundation*](https://educationendowmentfoundation.org.uk/)
+[Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
 in the UK.
    
