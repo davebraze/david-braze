@@ -1,7 +1,7 @@
 +++
 title = "Recommended Book: *Randomistas: How Radical Researchers Are Changing Our World*, by Andrew Leigh"
-date = 2019-05-04
-draft = true
+date = 2019-05-07
+draft = false
 authors = ["David Braze"]
 tags = ["parents", "teachers", "educators", "evidence", "books", "randomized controlled trials", "research", "education"]
 categories = ["recommended reading"]
