@@ -9,11 +9,11 @@ weight = 1
 
 # List your academic interests.
 # [interests]
- # interests = [
- #   "Psycholinguistics",
- #   "Computational Linguistics",
- #   "Cognitive Science"
- # ]
+# interests = [
+#   "Psycholinguistics",
+#   "Computational Linguistics",
+#   "Cognitive Science"
+# ]
 
 # List your qualifications (such as academic degrees).
 # [[education.courses]]

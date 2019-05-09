@@ -2,23 +2,23 @@
 widget = "content"
 active = true
 date = 2019-04-07T00:00:00
-title="The Big Picture"
-subtitle = ""
+title="Language & Reading"
+subtitle="The Big Picture"
 weight = 1
 +++
 
 ***All people use language***, or will learn to use it, with few
 exceptions. Any typical infant, who has reasonable exposure to the
 language of others, is sure to acquire the language(s) of its
-community. In fact, even in the face of many physical or intellectual
+community. In fact, even in the face of most physical or intellectual
 challenges, language emerges.
 
-Any real explanation of language must cover individual variation, how
-***people differ in their language abilities***, including both
-"normal" variation and disordered language. More, a complete
-explanation must also address how language is used for actual
-communication, and how well it supports other abilities that depend on
-it.
+It is undeniably true that ***people differ in their language
+abilities***. Any real explanation of how language works must account for this
+individual variation, including both "normal" variation and disordered
+language. More, a complete explanation must also address how language
+is used for actual communication, and how well it supports other
+abilities that depend on it.
 
 People in literate societies, like ours, often think of the ability to
 write and to read as a part of language. Many would consider these to

@@ -33,23 +33,58 @@ categories = []
 # https://gohugo.io/content-management/formats/
 # https://www.cc.gatech.edu/~san37/post/getting-started/
 # https://www.cc.gatech.edu/~san37/post/managing-content/
-
+# "Spoonful of Hugo" posts by Allison Hill: https://alison.rbind.io/
 
 +++
 
 This is a demo blog post.
 
-You can use this as a template for blog posts in the future. To hide it, just set `draft` to `false` in the file.
+You can use this as a template for blog posts in the future. To hide
+it, just set `draft` to `false` in the file.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nec dui nunc mattis enim ut tellus. Pharetra convallis posuere morbi leo urna. In vitae turpis massa sed elementum. Imperdiet sed euismod nisi porta lorem mollis aliquam. Eget dolor morbi non arcu risus quis varius quam. Dolor sit amet consectetur adipiscing elit. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Ipsum faucibus vitae aliquet nec ullamcorper.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nec
+dui nunc mattis enim ut tellus. Pharetra convallis posuere morbi leo
+urna. In vitae turpis massa sed elementum. Imperdiet sed euismod nisi
+porta lorem mollis aliquam. Eget dolor morbi non arcu risus quis
+varius quam. Dolor sit amet consectetur adipiscing elit. Sed lectus
+vestibulum mattis ullamcorper velit sed ullamcorper morbi. Ipsum
+faucibus vitae aliquet nec ullamcorper.
 
-Pellentesque elit eget gravida cum. Diam sit amet nisl suscipit adipiscing bibendum est. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Adipiscing commodo elit at imperdiet. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse. Donec ultrices tincidunt arcu non sodales neque sodales. Morbi enim nunc faucibus a pellentesque sit. Etiam sit amet nisl purus in mollis. Id ornare arcu odio ut sem nulla pharetra diam.
+Pellentesque elit eget gravida cum. Diam sit amet nisl suscipit
+adipiscing bibendum est. Lectus magna fringilla urna porttitor rhoncus
+dolor purus non. Posuere lorem ipsum dolor sit amet consectetur
+adipiscing elit duis. Adipiscing commodo elit at imperdiet. Tempus
+egestas sed sed risus pretium quam vulputate dignissim
+suspendisse. Donec ultrices tincidunt arcu non sodales neque
+sodales. Morbi enim nunc faucibus a pellentesque sit. Etiam sit amet
+nisl purus in mollis. Id ornare arcu odio ut sem nulla pharetra diam.
 
 ---
 
-Morbi blandit cursus risus at. Nisl condimentum id venenatis a condimentum. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Aliquet nibh praesent tristique magna sit. Sollicitudin ac orci phasellus egestas tellus. Dictum fusce ut placerat orci nulla pellentesque dignissim. Tellus in metus vulputate eu scelerisque. Tincidunt id aliquet risus feugiat in ante. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. Nibh tellus molestie nunc non blandit massa enim nec dui. Nullam vehicula ipsum a arcu cursus. At quis risus sed vulputate odio ut. Volutpat ac tincidunt vitae semper quis.
+Morbi blandit cursus risus at. Nisl condimentum id venenatis a
+condimentum. Fames ac turpis egestas sed tempus urna et pharetra
+pharetra. Aliquet nibh praesent tristique magna sit. Sollicitudin ac
+orci phasellus egestas tellus. Dictum fusce ut placerat orci nulla
+pellentesque dignissim. Tellus in metus vulputate eu
+scelerisque. Tincidunt id aliquet risus feugiat in ante. Facilisi
+nullam vehicula ipsum a arcu cursus vitae congue mauris. Nibh tellus
+molestie nunc non blandit massa enim nec dui. Nullam vehicula ipsum a
+arcu cursus. At quis risus sed vulputate odio ut. Volutpat ac
+tincidunt vitae semper quis.
 
-Arcu ac tortor dignissim convallis aenean et tortor at risus. Facilisis sed odio morbi quis commodo odio. Sed ullamcorper morbi tincidunt ornare massa. Adipiscing elit duis tristique sollicitudin. Eu consequat ac felis donec et odio. Metus vulputate eu scelerisque felis imperdiet proin. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Elementum facilisis leo vel fringilla est ullamcorper eget. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Eu augue ut lectus arcu bibendum at varius vel. Nisi est sit amet facilisis magna. Id volutpat lacus laoreet non curabitur gravida arcu ac. Sodales ut eu sem integer. Orci nulla pellentesque dignissim enim.
+Arcu ac tortor dignissim convallis aenean et tortor at
+risus. Facilisis sed odio morbi quis commodo odio. Sed ullamcorper
+morbi tincidunt ornare massa. Adipiscing elit duis tristique
+sollicitudin. Eu consequat ac felis donec et odio. Metus vulputate eu
+scelerisque felis imperdiet proin. Vitae ultricies leo integer
+malesuada nunc vel risus commodo viverra. Aliquam purus sit amet
+luctus venenatis lectus magna fringilla. Elementum facilisis leo vel
+fringilla est ullamcorper eget. Placerat orci nulla pellentesque
+dignissim enim sit amet venenatis urna. Eu augue ut lectus arcu
+bibendum at varius vel. Nisi est sit amet facilisis magna. Id volutpat
+lacus laoreet non curabitur gravida arcu ac. Sodales ut eu sem
+integer. Orci nulla pellentesque dignissim enim.
 
 Here's some code.
 ```javascript
