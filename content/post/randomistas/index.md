@@ -13,7 +13,7 @@ categories = ["Recommended Reading"]
 years now.[^1] However, understanding just what constitutes evidence,
 and what doesn't, can be challenging. Andrew Leigh's ***Randomistas***
 digs in to one of the most important forms of evidence in the
-behavioral, social, or medical sciences, the "randomized controlled
+educational, social, and medical sciences, the "randomized controlled
 trial". He spells out in plain language just what it is, and why it is
 considered the gold standard for evidence of what works in education
 and many other areas of research.

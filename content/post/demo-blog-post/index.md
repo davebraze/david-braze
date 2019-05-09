@@ -28,6 +28,13 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+# Pages with useful reference material for writing in Hugo Academic include: 
+# https://gohugo.io/content-management/formats/
+# https://www.cc.gatech.edu/~san37/post/getting-started/
+# https://www.cc.gatech.edu/~san37/post/managing-content/
+
+
 +++
 
 This is a demo blog post.
