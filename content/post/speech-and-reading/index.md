@@ -1,9 +1,9 @@
 +++
 title = "Speech & Reading"
-date = 2019-01-18
+date = 2019-01-18T00:00:00
 draft = true
 authors = ["David Braze"]
-tags = ["speech", "reading", "language", ]
+tags = ["speech", "reading", "language", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
 
 # Featured image

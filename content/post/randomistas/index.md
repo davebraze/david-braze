@@ -1,9 +1,10 @@
 +++
 title = "Book Note: Randomistas, by Andrew Leigh"
 date = 2019-05-07T00:00:00
+lastmod = 2019-05-08T00:00:00
 draft = false
 authors = ["David Braze"]
-tags = ["evidence", "books", "randomized controlled trials", "research", "education"]
+tags = ["books", "education", "evidence", "randomized controlled trials", "research"]
 categories = ["Recommended Reading"]
 
 +++
@@ -24,13 +25,13 @@ practice. That said, the book does not focus on educational research
 in particular. It is about randomized trials in general, and that is
 one of its strengths. 
 
-The book gives specific examples how randomized controlled trials
-reveal the difference between what works and what doesn't in medicine,
-social policy, education, and many other areas. The results have
-sometimes been surprising, and an important point that Leigh makes
-is that intuitions (even the intuitions of experts!) about what
-should work are often wrong. Randomized trials let us clearly see
-whether benefits of a program are real, or just wishful thinking.
+Leigh gives specific examples how randomized controlled trials reveal
+the difference between what works and what doesn't in medicine, social
+policy, education, and many other areas. The results have sometimes
+been surprising, and an important point that Leigh makes is that
+intuitions (even the intuitions of experts!) about what *might* work
+are often wrong. Randomized trials let us clearly see whether benefits
+of a program are real, or just wishful thinking.
 
 I recommend this book for anyone interested in learning more about
 what evidence looks like in relation to evidence-based education, and
