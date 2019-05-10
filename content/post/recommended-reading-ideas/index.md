@@ -33,47 +33,17 @@ This is a stub for a series of blog posts where I recommend books and
 other readings on topics that people ask me about. Here's a start on
 the list:
 
-* Randomistas: How Radical Researchers Are Changing Our World, by
-  Andrew Leigh
-  
-  Evidence-based learning is the buzz word of the last few
-  years. Andrew Leigh's *Randomistas* digs in to one of the most
-  important forms of evidence, the *randomized controlled trial*, and
-  spells out in plain language just what it is, how it works, and why
-  it is considered the gold standard for evidence of how things work
-  in education and many other areas of research.
-   
-  The book is written with a popular audience in mind and readers
-  won't need any special background to come away with a new
-  appreciation for randomized trials and the evidence they provide for
-  what is and isn't effective in educational policy and classroom
-  practice. That said, the book does not focus on educational research
-  in particular. It is about randomized trials in general, and that is
-  one of its strengths. 
-  
-  The book gives specific examples how randomized controlled trials
-  show the difference between what works and what doesn't in medicine,
-  social policy, education, and many other areas. The results have
-  sometimes been surprising, and an important point that Leigh makes
-  is that our intuitions (and the intuitions of experts!) about what
-  should work are often wrong. Randomized trials let us clearly see
-  whether benefits of a program are real, or just wishful thinking.
-  
-  I recommend this book for parents, teachers, other educators, and
-  anyone interested in learning more about the buzz around
-  evidence-based education, and the importance of projects like the
-  U.S. Department of Education's *What Works Clearinghouse* and the
-  independent *Education Endowment Fund*.
-   
-   
-
-
 
 * Innate: How the Wiring of Our Brains Shapes Who We Are, by Kevin
   Mitchell
   
 * Rigor Mortis: How Sloppy Science Creates Worthless Cures, Crushes
   Hope, and Wastes Billions, by Richard Harris
+  
+  This book sheds light on the pressures and perverse incentives that
+  academic researchers work under. It may provide useful insight into
+  this aspect of educational research consumers of the research like
+  parents, teachers, and other stakeholders. 
 
 * Measuring Up: What Educational Testing Really Tells Us, by Daniel
   Koretz (2008)
