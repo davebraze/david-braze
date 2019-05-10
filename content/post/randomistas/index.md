@@ -1,18 +1,23 @@
 +++
 title = "Book Note: Randomistas, by Andrew Leigh"
 date = 2019-05-07T00:00:00
-lastmod = 2019-05-09T00:00:00
 draft = false
 authors = ["David Braze"]
 tags = ["books", "education", "evidence", "randomized controlled trials", "research"]
 categories = ["Recommended Reading"]
 
+[image]
+  caption = ""
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "smart"
+
 +++
 
-"Evidence-based practice" has been a buzz word in education for some
+"Evidence--based practice" has been a buzz word in education for some
 years now.[^1] However, understanding just what constitutes evidence,
-and what doesn't, can be challenging. Andrew Leigh's ***Randomistas***
-digs in to one of the most important forms of evidence in the
+and what doesn't, can be challenging. In ***Randomistas***, Andrew
+Leigh digs in to one of the most important forms of evidence in the
 educational, social, and medical sciences, the "randomized controlled
 trial". He spells out in plain language just what it is, and why it is
 considered the gold standard for evidence of what works in education
