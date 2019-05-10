@@ -17,7 +17,7 @@ copyright = "&copy; 1996-2019"
 
 theme = "academic"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
+footnotereturnlinkcontents = "<font size = '-1'>[BACK]</font>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
