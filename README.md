@@ -1,3 +1,3 @@
-# David Braze's Personal Site
+# David Braze's Website
 
-The personal web site of David Braze.
+Built with Hugo using the Academic theme.
