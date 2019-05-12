@@ -37,6 +37,8 @@ feel carries over to the domain of *Language and Reading and Genes*.
 
 A commentary by Dorothy Bishop, in a more closely connected domain,
 but evincing similar skepticism, can be found here:
-https://www.slideshare.net/deevybishop/biomarkers-for-psychological-phenotypes
-.
+https://www.slideshare.net/deevybishop/biomarkers-for-psychological-phenotypes .
 
+Here is an article in *Nature* that talks about the limited value of
+polygenic scores in general:
+https://www.nature.com/articles/s41436-018-0418-5
