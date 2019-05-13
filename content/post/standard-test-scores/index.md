@@ -19,6 +19,11 @@ categories = ["Education"]
 This is a stub for a blog post on the nature of standardized test scores.
 
 * What are standard scores?
-* What are they used for? (in the classroom, as contrasted with in public policy)
+  * How are they derived?
+  * Normative samples.
+  
+* What are they used for? 
+  * In assessing individuals: e.g. PPVT
+  * In aggregate: state tests
+  
 * What happens when the normative sample goes stale?
-
