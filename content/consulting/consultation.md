@@ -27,7 +27,7 @@ learn more.
   Education. I provide guidance on research design & analysis, project
   direction, and administration.
   
-+ [LiteracyHow](www.literacyhow.com) and
++ [Literacy How](www.literacyhow.com) and
   [New Haven Reads](www.NewHavenReads.org).
   <br> Analytic consultant for New Haven Reads, a 501c3 non-profit (New
   Haven Reads). Provided analysis of client data for report on
