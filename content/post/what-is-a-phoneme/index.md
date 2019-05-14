@@ -1,7 +1,7 @@
 +++
 title = "What is a Phoneme, Really?"
 date = 2019-01-18T00:00:00
-draft = false
+draft = true
 authors = ["David Braze"]
 tags = ["phone", "phoneme", "phoneme awareness", "speech", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
@@ -52,26 +52,56 @@ the ell sound that typically occurs after vowels. (It's not quite that
 simple, but close enough for present purposes.)
 
 The *light* ell of "like" and the *dark* ell of "milk" are noticeably
-different speech sounds and they are produced with different tongue
-gestures. You can, if you choose, easily pronounce the word "milk", or
-"call", while keeping the tip of your tongue tucked firmly behind your
-bottom front teeth. But if you try the same thing with the word
-"like", its ell sound will be noticeably defective. (Go ahead. Give it
-a try.) The light ell and the dark ell are different phones (different
-speech sounds) but English speakers treat them as belonging to the
-same category of speech sounds, the same phoneme.
+different speech sounds and they are produced with different, albeit
+similar, tongue gestures. You can, if you choose, easily pronounce the
+word "milk", or "call", while keeping the tip of your tongue tucked
+firmly behind your bottom front teeth. But if you try the same thing
+with the word "like", its ell sound will be noticeably defective. (Go
+ahead. Give it a try.) The light ell and the dark ell are different
+phones (different speech sounds) but English speakers treat them as
+belonging to the same category of speech sounds, the same
+phoneme. They both count as ells.
 
-So what about the short-hand of calling a phoneme a speech sound? It
-is mostly a matter of glossing over what some might consider a
-niggling detail of little relevance. Certainly, in speech, a phoneme
-has to make its presence known somehow, so, it will be represented by
-a contextually appropriate *phone*.
+In fact, when the need arises, linguists will use a more detailed
+transcription to represent the phones that occur in a word, instead of
+the phonemes. This is called phonetic transcription and these are
+placed between square brackets, instead of slashes, to set them apart
+from phonemic transcriptions. Each phonetic variant of a phoneme will
+be represented by a different symbol. So, while the phonemic
+transcription of "milk" is as given above ("/m&#x026A;lk/"), the
+phonetic transcription looks like this: [m&#x026A;&#x26B;k].
 
-But I think this detail matters
-in a couple of important ways. First, the alphabetic principle at the
-core of the English writing system is a mapping between phonemes and
-letters. That's why our spelling system maps light ell and dark ell to
-the same letter. Second,
+So what about the short-hand of calling a phoneme a speech sound? Does
+it matter if we gloss over what some might consider a niggling detail
+of little relevance? Certainly, in speech, a phoneme has to make its
+presence known somehow, so, it will be represented by a contextually
+appropriate *phone*. In hearing speech, it's usually easy to assign
+each phone that you hear to the right phoneme. Exceptions can arise
+for a number of reasons, some more interesting than others. A few of
+the more common include: noise in the environment, inattention on the
+part of the listener, speaker's accent unfamiliar to listener, and so
+on.
+
+That said, there are at least a couple of reasons that phone--phoneme
+mappings may be of particular relevance in the classroom. First, the
+alphabetic principle at the core of the English writing system is a
+mapping between phonemes and letters. That's why our spelling system
+maps light ell and dark ell to the same letter. Beginning readers may
+go through a phase where they try to map letters to phones instead of
+phonemes, and that can make for some creative spellings. A reading
+teacher needs to be able to recognize that that's what is happening
+and help the student through it. Another issue is that, in different
+dialects of English, each phoneme may consist of different sets of
+phones. For example, speakers of some varieties of English may replace
+the dark ell with a vowel sound. An example would be a pronunciation
+of "milk" as [m&#x026A;&#x28A;k]. The teacher needs to be able to
+recognize that this vowel phone is still a part of the ell phoneme.
+
+In this post, I've tried to shed light on the nature of phonemes and
+their relationship to speech sounds, and why it can matter in teaching
+reading. Certainly, more can be said, about phonemes and about
+the connection of speech to reading. I'll follow up on both these
+matters in later blog posts.
 
 [^1]: For example, Louisa Moats writes, "From a finite set of speech
       sounds (**phonemes**), speakers of an oral language say and
@@ -80,5 +110,5 @@ the same letter. Second,
       <p>Moats, L. C. (2000). Speech to Print: language essentials for
       teachers. Baltimore, MD: Paul H. Brookes.
 
-[^2]: I'll follow the convention of putting phonemic transcriptions
-      between forward slashes.
+[^2]: I'll follow the linguistic convention of putting phonemic
+      transcriptions between forward slashes.
