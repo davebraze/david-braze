@@ -40,10 +40,11 @@ assessments, neuroimaging, and eye-tracking. I am always looking for
 interesting collaborations. Drop me a note if you want to talk about
 working together.
 
-In pursuit of my research agenda, I have extensive experience ranging
-over: program development, project management, grant writing, research
-design, data monitoring and validation, data analysis, and
-presentation of research findings to professional and lay audiences.
+In support of my research goals, I bring extensive experience to the
+table, ranging over: program development, project management, grant
+writing, research design, data monitoring and validation, data
+analysis, and presentation of research findings to professional and
+lay audiences.
 
 I also provide consultation to non-profits, government, and industry
 on matters related to my research interests. [Reach out](/contact) if
