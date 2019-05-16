@@ -5,7 +5,13 @@ draft = true
 authors = ["David Braze"]
 tags = ["genetics", "language", "speech", "reading"]
 categories = ["Language & Reading"]
+license = "Creative Commons CC-BY"
 
+[image]
+  caption = ""
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "smart"
 +++
 
 What value does genetic testing bring to the table for reading

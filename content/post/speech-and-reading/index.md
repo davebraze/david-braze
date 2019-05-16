@@ -5,16 +5,13 @@ draft = true
 authors = ["David Braze"]
 tags = ["speech", "reading", "language", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
+license = "Creative Commons CC-BY"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
-  # Caption (optional)
   caption = ""
-
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "smart"
 +++
 
 This is a stub for a blog post on the relationship between speech and

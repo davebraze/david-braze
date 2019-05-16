@@ -5,6 +5,7 @@ draft = false
 authors = ["David Braze"]
 tags = ["books", "education", "evidence", "randomized controlled trials", "research"]
 categories = ["Recommended Reading"]
+license = "Creative Commons CC-BY"
 
 [image]
   caption = ""

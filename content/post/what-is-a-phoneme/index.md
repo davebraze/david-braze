@@ -6,6 +6,12 @@ authors = ["David Braze"]
 tags = ["phone", "phoneme", "phoneme awareness", "speech", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
 license = "Creative Commons CC-BY"
+
+[image]
+  caption = ""
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "smart"
 +++
 
 The word "phoneme" gets tossed around a lot in talk of early reading
