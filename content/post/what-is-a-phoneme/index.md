@@ -59,16 +59,16 @@ ell is the ell phone that typically occurs after vowels. (It's not
 quite that simple, but close enough for present purposes.)
 
 The *light* ell of "like" and the *dark* ell of "milk" are noticeably
-different speech sounds and they are produced with different, albeit
+different speech sounds and they are produced with different, although
 similar, tongue movements. You can, if you choose, easily pronounce
 the word "milk", or "call", while keeping the tip of your tongue
 tucked firmly behind your bottom front teeth, to keep your tongue tip
 from touching the alveolar ridge. But if you try the same thing with
 the word "like", its ell sound will be noticeably defective. (Go
 ahead. Give it a try.) The light ell and the dark ell are different
-phones (different speech sounds) but English speakers treat them as
-belonging to the same category of speech sounds, the same
-phoneme. They both count as ells.
+phones (different speech sounds), but English speakers treat them as
+belonging to the same category of speech sound, the same
+phoneme. They are both ells.
 
 In fact, when the need arises, linguists will use a more detailed
 transcription to represent the phones that occur in a word, instead of
@@ -121,7 +121,7 @@ follow up on both these things in later blog posts.
 [^1]: For example, Louisa Moats writes, "From a finite set of speech
       sounds (**phonemes**), speakers of an oral language say and
       understand many thousands of words" (p3).
-	
+
       <p>Moats, L. C. (2000). Speech to Print: language essentials for
       teachers. Baltimore, MD: Paul H. Brookes.
 
