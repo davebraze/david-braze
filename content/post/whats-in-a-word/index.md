@@ -102,3 +102,6 @@ Take a hard look at how the term was used originally. Also consider
 "word blindness". Here's a google ngram search of interest.
 
 https://books.google.com/ngrams/graph?content=dyslexia%2Cword+blindness%2Creading+disability&year_start=1880&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cdyslexia%3B%2Cc0%3B.t1%3B%2Cword%20blindness%3B%2Cc0%3B.t1%3B%2Creading%20disability%3B%2Cc0
+
+# Take 4
+It may also be useful to contrast usage of the terms "reading" and "literacy".
