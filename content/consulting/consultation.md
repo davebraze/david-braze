@@ -15,25 +15,25 @@ learn more.
 
 + [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
-  <br> Advise on study design, data collection, and analysis for program
+  <br>Advise on study design, data collection, and analysis for program
   efficacy study carried out in collaboration with the *Red de Escuelas de
   Aprendizaje de la Provincia de Buenos Aires*, Argentina.
 
 + Pennsylvania Department of Education, Bureau of Special
   Ed.,
   [Dyslexia & Early Literacy Intervention Pilot Program](papilot.org).
-  <br> I served on the Advisory Committee for the Dyslexia Screening and Early
+  <br>Advisory Committee member for the Dyslexia Screening and Early
   Literacy Intervention Pilot Program administered by the Bureau of Special
-  Education. I provide guidance on research design & analysis, project
+  Education. I provided guidance on research design & analysis, project
   direction, and administration.
-  
+
 + [Literacy How](www.literacyhow.com) and
   [New Haven Reads](www.NewHavenReads.org).
-  <br> Analytic consultant for New Haven Reads, a 501c3 non-profit (New
+  <br>Analytic consultant for New Haven Reads, a 501c3 non-profit (New
   Haven Reads). Provided analysis of client data for report on
   program reach and effectiveness to funder as part of grant wrap-up.
 
 + [Read to Grow](www.readtogrow.org).
-  <br> Provided *pro bono* advice on standards for data collection and
-  storage. 
+  <br>Provided *pro bono* advice on standards for data collection and
+  storage.
 
