@@ -3,7 +3,7 @@ title = "Language: there's no gene for that"
 date = 2019-05-08T00:00:00
 draft = true
 authors = ["David Braze"]
-tags = ["genetics", "language", "speech", "reading"]
+tags = ["genetics", "language", "speech"]
 categories = ["Language & Reading"]
 license = "Creative Commons CC-BY"
 
