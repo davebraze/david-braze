@@ -1,9 +1,9 @@
 +++
-title = "Is an Alphabet a Code?"
+title = 'Journal Club: Those "phon" words.'
 date = 2019-05-08T00:00:00
 draft = true
 authors = ["David Braze"]
-tags = ["reading", "writing", "alphabet"]
+tags = ["phonology", "phonemes", "phonics", "phoneme awareness"]
 categories = ["Language & Reading"]
 
 [image]
@@ -13,10 +13,9 @@ categories = ["Language & Reading"]
   focal_point = "smart"
 +++
 
-Reaction to thoughts expressed in this twitter thread:
+Overview and recommendation of this paper:
 
-https://twitter.com/debbiehepp/status/1129893744667447297
-
-and similar word mincing elsewhere.
-
-Touch on Morse Code and Braile and their relation to the English alphabet.
+Scarborough, H. S., & Brady, S. A. (2002). Toward a Common Terminology
+for Talking About Speech and Reading: A Glossary of the "Phon" Words
+and Some Related Terms. Journal of Literacy Research, 34(3),
+299-336. doi:10.1207/s15548430jlr3403_3
