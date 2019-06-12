@@ -5,7 +5,6 @@ draft = true
 authors = ["David Braze"]
 tags = ["genetics", "language", "speech"]
 categories = ["Language & Reading"]
-license = "Creative Commons CC-BY"
 
 [image]
   caption = ""

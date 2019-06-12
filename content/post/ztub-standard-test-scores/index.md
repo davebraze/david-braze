@@ -5,7 +5,6 @@ draft = true
 authors = ["David Braze"]
 tags = ["assessment", "testing", "classroom practice"]
 categories = ["Education"]
-license = "Creative Commons CC-BY"
 
 [image]
   caption = ""

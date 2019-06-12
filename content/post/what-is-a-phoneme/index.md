@@ -5,7 +5,6 @@ draft = false
 authors = ["David Braze"]
 tags = ["phone", "phoneme", "phoneme awareness", "speech", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
-license = "Creative Commons CC-BY"
 
 [image]
   caption = ""
@@ -13,6 +12,8 @@ license = "Creative Commons CC-BY"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "smart"
 +++
+
+
 
 The word "phoneme" gets tossed around a lot in talk of early reading
 instruction. It is an important concept in relation to phonics based
@@ -120,9 +121,8 @@ follow up on both these things in later blog posts.
 
 [^1]: For example, Louisa Moats writes, "From a finite set of speech
       sounds (**phonemes**), speakers of an oral language say and
-      understand many thousands of words" (p3).
-
-      <p>Moats, L. C. (2000). Speech to Print: language essentials for
+      understand many thousands of words" (p3).<p>Moats,
+      L. C. (2000). Speech to Print: language essentials for
       teachers. Baltimore, MD: Paul H. Brookes.
 
 [^2]: Actually, an individual phone can belong to more than one

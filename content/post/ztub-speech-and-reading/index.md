@@ -5,7 +5,6 @@ draft = true
 authors = ["David Braze"]
 tags = ["speech", "reading", "language", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
-license = "Creative Commons CC-BY"
 
 [image]
   caption = ""

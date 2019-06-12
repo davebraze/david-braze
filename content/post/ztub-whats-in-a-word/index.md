@@ -5,7 +5,6 @@ draft = true
 authors = ["David Braze"]
 tags = ["education", "learning disabilities", "reading", "language"]
 categories = ["Language & Reading"]
-license = "Creative Commons CC-BY"
 
 [image]
   caption = ""
