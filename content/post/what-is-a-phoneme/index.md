@@ -19,8 +19,8 @@ The word "phoneme" gets tossed around a lot in talk of early reading
 instruction. It is an important concept in relation to phonics based
 approaches to the subject. Reading teachers are typically taught that
 a phoneme is a "speech sound",[^1] but that isn't quite right. In
-fact, a phoneme is best defined as a **set** of speech sounds. So, a
-phoneme is an abstraction, a mental category. It is **not** an
+fact, a phoneme is better defined as a **set** of speech sounds. So, a
+phoneme is a mental abstraction, a category. It is **not** an
 individual sound, but rather a collection of speech sounds that behave
 similarly. Individual speech sounds are called phones. These phones
 belong to a specific set, or category, of sounds,[^2] and it is the
@@ -121,12 +121,17 @@ follow up on both these things in later blog posts.
 
 [^1]: For example, Louisa Moats writes, "From a finite set of speech
       sounds (**phonemes**), speakers of an oral language say and
-      understand many thousands of words" (p3).<p>Moats,
-      L. C. (2000). Speech to Print: language essentials for
+      understand many thousands of words" (p3).
+	  <p>Moats, L. C. (2000). Speech to Print: language essentials for
       teachers. Baltimore, MD: Paul H. Brookes.
 
-[^2]: Actually, an individual phone can belong to more than one
-      phoneme! But, we'll put that complication aside for another day.
+[^2]: Actually, there are a couple of complications here that we'll
+      put aside for another day. The first is that the mental
+      representation of a *phoneme* includes information not only about
+      its perceptual properties (sounds), but also about the speech
+      gestures (vocal tract movements) required to produce it. Second,
+      an individual *phone* (sound/gesture) can belong to more than one
+      phoneme!
 
 [^3]: I'll follow the linguistic convention of putting phonemic
       transcriptions between forward slashes.
