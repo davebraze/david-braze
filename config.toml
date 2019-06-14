@@ -305,7 +305,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "/publication/"
+  url = "https://scholar.google.com/citations?hl=en&user=Ri7ovUUAAAAJ&view_op=list_works&sortby=pubdate"
   weight = 5
 
 [[menu.main]]
