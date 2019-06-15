@@ -17,7 +17,7 @@ title = "David Braze"
 copyright = '&copy; 1996-2019 &middot; This page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons <br>Attribution-ShareAlike 4.0 International License</a>'
 
 theme = "academic"
-enableEmoji = true
+enableEmoji = true # emoji cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 footnotereturnlinkcontents = "<font size = '-1'>[BACK]</font>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -37,6 +37,14 @@ defaultContentLanguageInSubdir = false
 # Get last modified date for content from Git?
 enableGitInfo = false
 
+[frontmatter]
+  # See https://gohugo.io/getting-started/configuration/#configure-front-matter.
+  # t/d vars can be set in, e.g., blog post config headers
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
@@ -46,11 +54,11 @@ enableGitInfo = false
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  smartypants = true  # `false` disables all smart punctuation  (e.g. smart quotes, dashes, fractions).
   extensions = ["backslashLineBreak"]
 
 [permalinks]
-    skills = "skills"
+    stuff = "stuff"
 
 [params]
   # AUTHOR SETUP
@@ -59,12 +67,13 @@ enableGitInfo = false
   name = "David Braze"
   role = "Sr. Scientist (pro bono)"
 
-  # Organizations/Affiliations.
-  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  # Organizations/Affiliations. Separate multiple entries with a
+  #   comma, using the form: `[ {name="Org1", url=""}, {name="Org2",
+  #   url=""} ]`.
   organizations = [ { name = "Haskins Laboratories", url = "http://www.haskinslabs.org/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or "" to disable avatar.
 
   # Details for the Contact Widget
   email = "dave.braze@haskinslabs.org"

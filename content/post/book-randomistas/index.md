@@ -1,12 +1,14 @@
 +++
 title = "Book Note: Randomistas, by Andrew Leigh"
 date = 2019-05-07T00:00:00
+lastmod = 2019-05-14T00:00:00
 draft = false
 authors = ["David Braze"]
 tags = ["books", "education", "evidence", "randomized controlled trials", "research"]
 categories = ["Recommended Reading"]
 
 [image]
+  # To use, add an image named `featured.jpg/png` to your page's folder.
   caption = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

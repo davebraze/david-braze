@@ -1,12 +1,14 @@
 +++
 title = "What is a Phoneme, Really?"
 date = 2019-05-14T00:00:00
+lastmod = 2019-05-21T00:00:00
 draft = false
 authors = ["David Braze"]
 tags = ["phone", "phoneme", "phoneme awareness", "speech", "phonics", "alphabetic principle"]
 categories = ["Language & Reading"]
 
 [image]
+  # To use, add an image named `featured.jpg/png` to your page's folder.
   caption = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
