@@ -56,7 +56,7 @@ enableGitInfo = false
   fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation  (e.g. smart quotes, dashes, fractions).
   extensions = ["backslashLineBreak"]
-
+ 
 [permalinks]
     stuff = "stuff"
 
