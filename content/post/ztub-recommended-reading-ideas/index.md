@@ -1,6 +1,7 @@
 +++
 title = "Recommended Reading"
 date = 2019-01-18
+lastmode = ""
 draft = true
 authors = ["David Braze"]
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

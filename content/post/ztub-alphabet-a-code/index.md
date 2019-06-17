@@ -1,6 +1,7 @@
 +++
 title = "Is an Alphabet a Code?"
 date = 2019-05-08T00:00:00
+lastmode = ""
 draft = true
 authors = ["David Braze"]
 tags = ["reading", "writing", "alphabet"]

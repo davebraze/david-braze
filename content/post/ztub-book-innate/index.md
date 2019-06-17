@@ -1,6 +1,7 @@
 +++
 title = "Book Note: Innate, by Kevin Mitchell"
-date = 2019-01-18
+date = 2019-06-24T00:00:00
+lastmode = ""
 draft = true
 authors = ["David Braze"]
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

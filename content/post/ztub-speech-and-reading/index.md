@@ -1,6 +1,7 @@
 +++
 title = "Speech & Reading"
 date = 2019-01-18T00:00:00
+lastmode = ""
 draft = true
 authors = ["David Braze"]
 tags = ["speech", "reading", "language", "phonics", "alphabetic principle"]

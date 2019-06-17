@@ -1,6 +1,7 @@
 +++
 title = "Language and Reading and Genes"
 date = 2019-05-08T00:00:00
+lastmode = ""
 draft = true
 authors = ["David Braze"]
 tags = ["genetics", "language", "speech", "reading"]
