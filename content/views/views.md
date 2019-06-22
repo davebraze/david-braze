@@ -14,11 +14,11 @@ community. In fact, even in the face of most physical or intellectual
 challenges, language emerges.
 
 It is undeniably true that ***people differ in their language
-abilities***. Any real explanation of how language works must account for this
-individual variation, including both "normal" variation and disordered
-language. More, a complete explanation must also address how language
-is used for actual communication, and how well it supports other
-abilities that depend on it.
+abilities***. Any real explanation of how language works must account
+for this individual variation, including both "normal" variation and
+disordered language. More, a complete explanation must also address
+how language is used for actual communication, and how well it
+supports other abilities that depend on it.
 
 People in literate societies, like ours, often think of the ability to
 write and to read as a part of language. Many would consider these to
@@ -33,4 +33,5 @@ Understanding the how and why of this basic truth about writing and
 reading, and its implications for education, is ***an important goal
 of my research***.
 
-**More to come....**
+I have more thoughts on language, reading, educational practice and
+policy, research, and other topics. Find them in my [Blog](/post).
