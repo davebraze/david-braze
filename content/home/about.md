@@ -30,7 +30,7 @@ weight = 1
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
- 
+
 +++
 
 I do research in the areas of language, literacy, and cognition, and their
@@ -43,7 +43,7 @@ working together.
 I bring extensive experience to the table, ranging over: program
 development, project management, grant writing, research design, data
 monitoring and validation, data analysis, and presentation of research
-findings to professional and lay audiences.
+findings to specialist and general audiences.
 
 I also provide consultation to non-profits, government, and industry
 on matters related to my research interests. [Reach out](/contact) if
