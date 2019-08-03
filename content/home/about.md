@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-07-19T00:00:00
 
 # Order that this section will appear in.
 weight = 1
@@ -40,7 +40,7 @@ assessments, neuroimaging, and eye-tracking. I am always looking for
 interesting collaborations. Drop me a note if you want to talk about
 working together.
 
-I bring extensive experience to the table, ranging over: program
+I bring extensive experience to the table, ranging over program
 development, project management, grant writing, research design, data
 monitoring and validation, data analysis, and presentation of research
 findings to specialist and general audiences.
