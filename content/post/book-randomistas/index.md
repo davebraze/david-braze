@@ -4,8 +4,8 @@ date = 2019-05-07T00:00:00
 lastmod = 2019-05-14T00:00:00
 draft = false
 authors = ["David Braze"]
-tags = ["books", "education", "evidence", "randomized controlled trials", "research"]
-categories = ["Recommended Reading"]
+tags = ["books", "education", "evidence", "randomized controlled trials", "research", "recommended reading"]
+categories = ["Book Notes"]
 
 [image]
   # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,7 +31,7 @@ appreciation for randomized trials and the evidence they provide for
 what is or isn't effective in educational policy and classroom
 practice. That said, the book does not focus on educational research
 in particular. It is about randomized trials in general, and that is
-one of its strengths. 
+one of its strengths.
 
 Leigh gives specific examples how randomized controlled trials reveal
 the difference between what works and what doesn't in medicine, social
@@ -48,7 +48,7 @@ Education's [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/)
 and the independent
 [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
 in the UK.
-   
+
 [^1]: For example, <br>Davies, P. (1999). What is Evidence-based
       Education? *British Journal of Educational Studies, 47*(2),
       108-121. doi:[10.1111/1467-8527.00106](https://dx.doi.org/10.1111/1467-8527.00106).
