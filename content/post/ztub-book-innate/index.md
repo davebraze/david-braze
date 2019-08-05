@@ -12,12 +12,12 @@ authors = ["David Braze"]
 # Use `tags = []` for no tags, or the form `tags =
 #  ["A Tag", "Another Tag"]` for one or more tags.
 
-tags = ["genetics", "individual differences", "reading disability"]
+tags = ["genetics", "individual differences", "recommended reading", "reading disability"]
 
 # categories are (maybe?) hierarchical and specify broad categories of
 # posts.
 
-categories = ["recommended reading"]
+categories = ["Book Notes"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ categories = ["recommended reading"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Top"
 +++
 
 
@@ -46,26 +46,31 @@ genetic endowment, environment, and the luck of the draw are all
 relevant factors in determining the range of traits that combine to
 make each of us unique.
 
-The fact that reading disability runs in families has been
-well-established for quite some time now. But a less settled question
-is that of just what this might mean for diagnosis, classroom
-practice, and educational policy. Early work in the genetics of
-reading relied primarily on "twin studies", where the development of
-reading-related skills in identical and non-identical twins is tracked
-over time. These studies affirmed that both genes and environment play
-a role in explaining differences in the ease of learning to read.[^1]
-What has been less well understood until more recently is that the
-genetic component of individual differences in complex traits like
-reading ability (or language skills, for that matter), arise through
-complicated interactions of hundreds, or even thousands, of different
-genes. Each of these, individually, makes a very small contribution
-(positive or negative) to the trait in question but together they  
+The fact that reading disability runs in families, as do many learning
+disorders, has been well-established for quite some time now. But a
+less settled question is that of just what this might mean for
+diagnosis, classroom practice, and educational policy. Early work in
+the genetics of reading ability relied primarily on "twin studies",
+where the development of reading-related skills in identical and
+non-identical twins is tracked over time. These studies affirmed that
+both genes and environment play a role in explaining differences in
+the ease of learning to read.[^1] What has been less well understood
+until more recently is that the genetic component of individual
+differences in complex traits like reading ability (or language
+skills, for that matter), arise through complicated interactions of
+hundreds, or even thousands, of different genes. Each of these,
+individually, makes a very small contribution (positive or negative)
+to the trait in question (reading ability, for example), but in
+aggregate the genetic contribution to differences in a skill like
+reading can be substantial.
 
+contributions of genes relative to environment
 
+what is non-shared environment
 
 
 [^1]: e.g., Byrne, B., Wadsworth, S., Corley, R., Samuelsson, S.,
     Quain, P., DeFries, J. C., Willcutt, E., & Olson,
     R. K. (2005). Longitudinal twin study of early literacy
-    development: Preschool and kindergarten phases. *Scientific Studies
-    of Reading, 9*(3), 219-235.
+    development: Preschool and kindergarten phases. *Scientific
+    Studies of Reading, 9*(3), 219-235.
