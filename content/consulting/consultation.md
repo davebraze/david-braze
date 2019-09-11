@@ -13,13 +13,12 @@ data that will help them to develop solutions to their unique
 challenges.
 
 Your data may be generated internally, or it may come from public
-sources like state departments of education, the US census, and so on,
-or both. Regardless, I can help you to use the information available
-to you to uncover actionable insights to better serve your clients and
-communities.
+sources like state departments of education or the US
+census. Regardless, I can help you to use your data to gain insights
+you can use to better serve your clients and communities.
 
 Generally, I work on a on a fee-for-service basis, although I take on
-occasional *pro bono* work for non-profits, as
+occasional *pro bono* work for non-profits as
 well. [Get in touch](/contact) if you would like to learn more. I will
 gladly provide references on request.
 
@@ -46,4 +45,3 @@ gladly provide references on request.
 + [Read to Grow](www.readtogrow.org).
   <br>Provided *pro bono* advice on standards for data collection and
   storage.
-
