@@ -28,13 +28,12 @@ gladly provide references on request.
   efficacy study carried out in collaboration with the *Red de Escuelas de
   Aprendizaje de la Provincia de Buenos Aires*, Argentina.
 
-+ Pennsylvania Department of Education, Bureau of Special
-  Ed.,
-  [Dyslexia & Early Literacy Intervention Pilot Program](https://eric.ed.gov/?q=kuchle&id=ED582923).
++ Pennsylvania Department of Education, Bureau of Special Ed.,
+  [Dyslexia & Early Literacy Intervention Pilot Program](https://www.education.pa.gov/Data-and-Statistics/Pages/Dyslexia-Screening-and-Early-Literacy-Intervention-Pilot-Program.aspx).
   <br>Advisory Committee member for the Dyslexia Screening and Early
-  Literacy Intervention Pilot Program administered by the Bureau of Special
-  Education. I provided guidance on research design & analysis, project
-  direction, and administration.
+  Literacy Intervention Pilot Program administered by the Bureau of
+  Special Education. I provided guidance on research design &
+  analysis, project direction, and administration.
 
 + [Literacy How](www.literacyhow.com) and
   [New Haven Reads](www.NewHavenReads.org).
