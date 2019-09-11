@@ -21,7 +21,7 @@ communities.
 Generally, I work on a on a fee-for-service basis, although I take on
 occasional *pro bono* work for non-profits, as
 well. [Get in touch](/contact) if you would like to learn more. I will
-provide references on request.
+gladly provide references on request.
 
 + [Intelexia](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
