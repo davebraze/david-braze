@@ -80,12 +80,12 @@ placed between square brackets, instead of slashes, to set them apart
 from phonemic transcriptions. Each phonetic variant of a phoneme will
 be represented by a different symbol. So, while the phonemic
 transcription of "milk" is as given above ("/m&#x026A;lk/"), the
-phonetic transcription looks like this: [m&#x026A;&#x26B;k]. Notice
-that in the first case, we use the same symbol (/l/) as in "like".
-That's because we have the same phoneme in both words. But in the
-second case, we use a different symbol ([&#x26B;]). In this case we
-are representing the specific phone, which is different than the ell phone
-that occurs in "like".
+phonetic transcription looks like this: [m&#x026A;&#x29F;k]. Notice
+that in the first case, we use the same symbol (/l/) as for the ell in
+"like".  That's because we have the same phoneme in both words. But in
+the second case, we use a different symbol ([&#x29F;]). In this case
+we are representing the specific phone (not phoneme!), which is
+different than the ell phone that occurs in "like".
 
 So what about the short-hand of calling a phoneme a speech sound? Does
 it matter if we gloss over what some might consider a niggling detail
