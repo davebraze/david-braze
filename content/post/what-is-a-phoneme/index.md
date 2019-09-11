@@ -9,10 +9,10 @@ categories = ["Language & Reading"]
 
 [image]
   # To use, add an image named `featured.jpg/png` to your page's folder.
-  caption = ""
+  caption = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IPA_chart_2018.pdf/page1-1275px-IPA_chart_2018.pdf.jpg"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "smart"
+  focal_point = "Top"
 +++
 
 
