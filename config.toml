@@ -65,19 +65,22 @@ enableGitInfo = false
 
   # Your details.
   name = "David Braze"
-  role = "Sr. Scientist (pro bono)"
+  role = "Consulting Scientist"
 
   # Organizations/Affiliations. Separate multiple entries with a
   #   comma, using the form: `[ {name="Org1", url=""}, {name="Org2",
   #   url=""} ]`.
-  organizations = [ { name = "Haskins Laboratories", url = "http://www.haskinslabs.org/" }]
-
+  # organizations = [ { name = "Haskins Laboratories", url = "http://www.haskinslabs.org/" }]
+  organizations = [ { name = "", url = "" }]
+  
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or "" to disable avatar.
 
   # Details for the Contact Widget
-  email = "dave.braze@haskinslabs.org"
-  address = "300 George Street, Ste. 900, New Haven, CT 06511"
+  # email = "dave.braze@haskinslabs.org"
+  # address = "300 George Street, Ste. 900, New Haven, CT 06511"
+  email = "davebraze@gmail.com"
+  address = "New Haven, CT 06511"
   office_hours = ""
   phone = ""
   fax = ""
