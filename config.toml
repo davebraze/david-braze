@@ -116,7 +116,7 @@ enableGitInfo = false
   # Haskins lat/long
   # latitude = "41.305180"
   # longitude = "-72.931170"
-  map = 
+  map = 2
   map_api_key = ""
   latitude = ""
   longitude = ""
