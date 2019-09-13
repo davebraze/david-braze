@@ -80,7 +80,7 @@ enableGitInfo = false
   # email = "dave.braze@haskinslabs.org"
   # address = "300 George Street, Ste. 900, New Haven, CT 06511"
   email = "davebraze@gmail.com"
-  address = "New Haven, CT 06511"
+  address = "West Haven, CT 06516"
   office_hours = ""
   phone = ""
   fax = ""
@@ -113,13 +113,16 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   # map = 2
   # map_api_key = ""
-  # Haskins lat/long
+  # 300 George St., New Haven lat/long
   # latitude = "41.305180"
   # longitude = "-72.931170"
+  # zoom = 16
+
   map = 2
   map_api_key = ""
-  latitude = ""
-  longitude = ""
+  # West Haven center
+  latitude = "41.272480"
+  longitude = "-72.950363"
   zoom = 16
 
   ##### SITE SETUP
