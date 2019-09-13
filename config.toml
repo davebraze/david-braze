@@ -123,7 +123,7 @@ enableGitInfo = false
   # West Haven center
   latitude = "41.272480"
   longitude = "-72.950363"
-  zoom = 16
+  zoom = 12
 
   ##### SITE SETUP
 
