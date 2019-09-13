@@ -46,5 +46,6 @@ monitoring and validation, data analysis, and presentation of research
 findings to specialist and general audiences.
 
 I also provide consultation to non-profits, government, and industry
-on matters related to my research interests. [Reach out](/contact) if
-you would like to learn more.
+in my areas of expertise. You'll find more information on consulting
+services [here](/consulting).
+
