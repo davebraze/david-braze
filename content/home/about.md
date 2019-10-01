@@ -33,19 +33,16 @@ weight = 1
 
 +++
 
-I do research in the areas of language, literacy, and cognition, and their
-application to education. I have wide experience with behavioral
-and neurocognitive methods, including standardized cognitive and language
-assessments, neuroimaging, and eye-tracking. I am always looking for
-interesting collaborations. Drop me a note if you want to talk about
-working together.
+I am a research and consultant in the areas of language, literacy, and
+cognition, and their application to education. I have wide experience
+with behavioral and neurocognitive methods, including standardized
+cognitive and language assessments, neuroimaging, and eye-tracking.
 
 I bring extensive experience to the table, ranging over program
 development, project management, grant writing, research design, data
 monitoring and validation, data analysis, and presentation of research
 findings to specialist and general audiences.
 
-I also provide consultation to non-profits, government, and industry
-in my areas of expertise. You'll find more information on consulting
-services [here](/consulting).
+I provide consultation to non-profits, government, and industry in my
+areas of expertise. Read more about it [here](/consulting).
 
