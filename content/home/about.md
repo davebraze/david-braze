@@ -33,10 +33,11 @@ weight = 1
 
 +++
 
-I am a research and consultant in the areas of language, literacy, and
-cognition, and their application to education. I have wide experience
-with behavioral and neurocognitive methods, including standardized
-cognitive and language assessments, neuroimaging, and eye-tracking.
+I am a researcher and consultant in the areas of language, literacy,
+and cognition, and their application to education. I have wide
+experience with behavioral and neurocognitive methods, including
+standardized cognitive and language assessments, neuroimaging, and
+eye-tracking.
 
 I bring extensive experience to the table, ranging over program
 development, project management, grant writing, research design, data
