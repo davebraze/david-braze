@@ -35,15 +35,15 @@ weight = 1
 
 I am a researcher and consultant in the areas of language, literacy,
 and cognition, and their application to education. I have wide
-experience with behavioral and neurocognitive methods, including
+expertise with behavioral and neurocognitive methods, including
 standardized cognitive and language assessments, neuroimaging, and
 eye-tracking.
 
 I bring extensive experience to the table, ranging over program
-development, project management, grant writing, research design, data
-monitoring and validation, data analysis, and presentation of research
-findings to specialist and general audiences.
+evaluation & development, project management, grant writing, research
+design, data monitoring and validation, data analysis, and
+presentation of research findings to specialist and general audiences.
 
-I provide consultation to non-profits, government, and industry in my
-areas of expertise. Read more about it [here](/consulting).
+I provide consultation to non-profits, government, and industry in
+these areas. [Find out more.](/consulting)
 
