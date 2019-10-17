@@ -307,23 +307,23 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Views"
-  url = "/views/"
-  weight = 1
-
-[[menu.main]]
-  name = "Outreach"
-  url = "/outreach/"
-  weight = 2
-
-[[menu.main]]
   name = "Consulting"
   url = "/consulting/"
-  weight = 3
+  weight = 1
 
 [[menu.main]]
   name = "Blog"
   url = "/post/"
+  weight = 2
+
+[[menu.main]]
+  name = "Views"
+  url = "/views/"
+  weight = 3
+
+[[menu.main]]
+  name = "Outreach"
+  url = "/outreach/"
   weight = 4
 
 [[menu.main]]
