@@ -22,14 +22,14 @@ occasional *pro bono* work for non-profits as
 well. [Get in touch](/contact) if you would like to learn more. I will
 gladly provide references on request.
 
-+ [Intelexia](www.intelexia.com) and the *Red de Escuelas
++ [Intelexia, LLC](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
   <br>Advise on study design, data collection, and analysis for program
   efficacy study carried out in collaboration with the *Red de Escuelas de
   Aprendizaje de la Provincia de Buenos Aires*, Argentina.
 
 + Pennsylvania Department of Education, Bureau of Special Ed.,
-  [Dyslexia & Early Literacy Intervention Pilot Program](https://www.education.pa.gov/Data-and-Statistics/Pages/Dyslexia-Screening-and-Early-Literacy-Intervention-Pilot-Program.aspx).
+  [Dyslexia & Early Literacy Intervention Pilot Program](https://www.education.pa.gov/DataAndReporting/Pages/Dyslexia-Screening-and-Early-Literacy-Intervention-Pilot-Program.aspx).
   <br>Advisory Committee member for the Dyslexia Screening and Early
   Literacy Intervention Pilot Program administered by the Bureau of
   Special Education. I provided guidance on research design &
