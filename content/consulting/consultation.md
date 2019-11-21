@@ -14,8 +14,10 @@ challenges.
 
 Your data may be generated internally, or it may come from public
 sources like state departments of education or the US
-census. Regardless, I can help you to use your data to gain insights
-you can use to better serve your clients and communities.
+census. Regardless, I can help you to use data to gain insights you
+can use to better serve your clients and communities, and to
+communicate your goals and successes to funders and other
+stakeholders.
 
 Generally, I work on a on a fee-for-service basis, although I take on
 occasional *pro bono* work for non-profits as
