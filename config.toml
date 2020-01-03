@@ -73,7 +73,7 @@ enableGitInfo = false
   organizations = [ { name = "Literacy Coalition of Greater New Haven", url = "https://literacyeveryday.org" },
   		    { name = "Haskins Laboratories", url = "https://www.haskinslabs.org/" }]
 
-  
+
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or "" to disable avatar.
 
@@ -274,7 +274,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:dave.braze@haskinslabs.org"
+    link = "mailto:davebraze@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
@@ -285,6 +285,11 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/davebraze"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "fab"
+    link = "https://orcid.org/0000-0002-3899-0586"
 
   [[params.social]]
     icon = "twitter"
