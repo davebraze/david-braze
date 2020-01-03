@@ -286,10 +286,11 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/davebraze"
 
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "fab"
-    link = "https://orcid.org/0000-0002-3899-0586"
+# doesn't display icon/link
+  # [[params.social]]
+  #   icon = "orcid"
+  #   icon_pack = "fab"
+  #   link = "https://orcid.org/0000-0002-3899-0586"
 
   [[params.social]]
     icon = "twitter"
