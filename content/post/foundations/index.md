@@ -27,4 +27,3 @@ In August of 2020, I gave an eagle's eye introduction to language and its connec
 
 
 
-{{< youtube 5plHAyDfijU >}}
