@@ -337,10 +337,10 @@ enableGitInfo = false
   url = "https://scholar.google.com/citations?hl=en&user=Ri7ovUUAAAAJ&view_op=list_works&sortby=pubdate"
   weight = 5
 
-[[menu.main]]
-  name = "Collaborators"
-  url = "/collaborators/"
-  weight = 6
+# [[menu.main]]
+#   name = "Collaborators"
+#   url = "/collaborators/"
+#   weight = 6
 
 [[menu.main]]
   name = "Contact"
