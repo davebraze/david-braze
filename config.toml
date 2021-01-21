@@ -14,7 +14,7 @@ title = "David Braze"
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 
-copyright = '&copy; 1996-2019 &middot; This page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons <br>Attribution-ShareAlike 4.0 International License</a>'
+copyright = '&copy; 1996-2021 &middot; This page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons <br>Attribution-ShareAlike 4.0 International License</a>'
 
 theme = "academic"
 enableEmoji = true # emoji cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
