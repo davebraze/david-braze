@@ -1,6 +1,6 @@
 +++ 
 
-title = "Foundations: from language to reading" 
+title = "Foundations: from Language to Reading" 
 
 date = 2020-08-07T00:00:00 
 

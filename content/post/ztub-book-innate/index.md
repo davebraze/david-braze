@@ -34,7 +34,7 @@ categories = ["Book Notes"]
 Innate: How the Wiring of Our Brains Shapes Who We Are, by Kevin
   Mitchell
 
-In **Innate**, Kevin Mitchell gives a fairly accessible discussion of
+In **Innate**, Kevin Mitchell gives a fairly accessible exposition of
 the relative contributions of genes, shared environment, and the
 confusingly named non-shared environment to differences in who we are
 as individuals: in physique, personality, cognition, and so on. The
@@ -51,7 +51,7 @@ disorders, has been well-established for quite some time now. But a
 less settled question is that of just what this might mean for
 diagnosis, classroom practice, and educational policy. Early work in
 the genetics of reading ability relied primarily on "twin studies",
-where the development of reading-related skills in identical and
+where the development of reading-related skills in identical twins and
 non-identical twins is tracked over time. These studies affirmed that
 both genes and environment play a role in explaining differences in
 the ease of learning to read.[^1] What has been less well understood
