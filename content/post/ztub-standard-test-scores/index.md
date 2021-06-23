@@ -16,12 +16,17 @@ categories = ["Education"]
 
 This is a stub for a blog post on the nature of standardized test scores.
 
-* What are standard scores?
-  * How are they derived?
-  * Normative samples.
+* Types of standardized scores
+  * standard scores
+  * stanines
+  * age-equivalent & grade-equivalent scores (and their problems)
+
+* Normative samples.
+  * Is the normative sample a reasonable one in general?
+  * Is the normative sample "close enough" to whomever *you* are testing?
+  * What happens when the normative sample goes stale?
   
-* What are they used for? 
+* What are the various types of standardized scores used for? 
   * In assessing individuals: e.g. PPVT
   * In aggregate: state tests
-  
-* What happens when the normative sample goes stale?
+

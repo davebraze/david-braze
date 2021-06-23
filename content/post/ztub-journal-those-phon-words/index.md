@@ -5,7 +5,7 @@ lastmode = ""
 draft = true
 authors = ["David Braze"]
 tags = ["phonology", "phonemes", "phonics", "phoneme awareness"]
-categories = ["Language & Reading"]
+categories = ["Language & Reading", "Research to Practice"]
 
 [image]
   caption = ""
