@@ -1,7 +1,7 @@
 +++
 title = "Randomistas, by Andrew Leigh"
-date = 2019-05-07T00:00:00
-lastmod = 2019-05-14T00:00:00
+date = 2019-04-07T00:00:00
+lastmod = 2019-04-14T00:00:00
 draft = false
 authors = ["David Braze"]
 tags = ["books", "education", "evidence", "randomized controlled trials", "research", "recommended reading"]
