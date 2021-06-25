@@ -1,7 +1,7 @@
 +++
 title = "Organizing Data"
 date = 2019-01-18T00:00:00
-lastmode = "2020-05-01T00:00:00"
+lastmod = "2020-05-01T00:00:00"
 draft = false
 authors = ["David Braze"]
 tags = ["education", "data", "research", "spreadsheets"]
