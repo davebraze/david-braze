@@ -145,6 +145,6 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 <!-- + Missing Values -->
 
-[^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it will be worth your time.
+[^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it will be worth your time.
 
 [^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview"), where she goes in to some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but may be worth your time if you want to take a deeper dive in to some of these issues.
