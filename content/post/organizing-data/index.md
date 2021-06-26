@@ -104,7 +104,7 @@ The value of any type of variable might be absent, for one reason or another. Wh
 
 # Codebooks
 
-A codebook, or data dictionary, is a separate file from your data set that describes the layout and contents the data set. Ideally, your codebook should be a plain text file. This is to make your codebook as easily accessible as possible, at the time your write it and far into the future. I also think it's good idea to use a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown") format for your codebook. 
+A codebook, or data dictionary, is a separate file from your data set that describes the layout and contents the data set. Ideally, your codebook should be a plain text file.[^3] This is to make your codebook as easily accessible as possible, at the time you write it and far into the future. 
 
 Your codebook may (should) include a preface that gives details of who collected the data, for what purpose, and how it was collected. An important part of that overview will be information about who or what the data is about. 
 
@@ -147,4 +147,6 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 [^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it will be worth your time.
 
-[^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview"), where she goes in to some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but may be worth your time if you want to take a deeper dive in to some of these issues.
+[^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but may be worth your time if you want to take a deeper dive into some of these issues.
+
+[^3]: I like the idea of using a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown article on wikipedia") format for a codebook. It is a plain text format, but also allows for easy conversion from plain text to well-formated pdf or docx or html (and many other formats). But, if that seems like a bridge too far for you just now, given all the other new things you're trying to get a handle on, then put it off for another day. Use whatever program is most convenient for you to create your codebook (MS Word, maybe?). 
