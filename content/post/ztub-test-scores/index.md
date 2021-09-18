@@ -16,9 +16,15 @@ categories = ["Education"]
 
 This is a stub for a blog post on the nature of standardized test scores.
 
+* kinds of assessment
+  * formative assessment; relate to norm-referenced
+  * summative assessment; relate to criterion-referenced; relate to mastery test
+  * norm-referenced (normative samples)
+  * criterion-referenced (and use of cut-scores)
+
 * Raw Scores
 
-* Types of standardized scores
+* kinds of standardized scores
   * standard scores
   * stanines
   * age-equivalent & grade-equivalent scores (and their problems)
