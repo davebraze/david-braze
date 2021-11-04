@@ -33,15 +33,23 @@ weight = 1
 
 +++
 
-I am a researcher and consultant with more than 20 years of experience
-in the areas of language, literacy, and cognition, and their
-application to education.
+I am a researcher and consultant with more than 20 years experience
+collecting, summarizing, and analyzing data for non-profit, government
+and industry.
 
 I bring extensive experience to the table, ranging over program
 evaluation & development, project management, grant writing, research
 design, data monitoring and validation, data analysis, and
-presentation of research findings to specialist and general audiences.
+reporting findings to specialist and general audiences.
 
-I provide consultation to non-profits, government, and industry in
-these areas. [Find out more.](/consulting)
+I can help you to spend less time worrying about data and more time on
+your core mission by working with you to
+
+- make the best use of the data you have
+- collect the best possible data going forward
+- tell compelling stories with data
+- generate data-driven outcome reports for funders
+- build capacity and skills for data work that will simplify your life
+
+[Find out more.](/consulting)
 

@@ -7,22 +7,19 @@ title="Consulting"
 weight = 2
 +++
 
-I provide consultation to non-profit organizations, government, and
-industry. I specialize in helping organizations to find patterns in
-data that will help them to develop solutions to their unique
-challenges.
+You have data and a story to tell. I know data and can help you to
+make the most from yours. I specialize in helping organizations find
+patterns in data that will let them address their unique challenges.
 
 Your data may be generated internally, or it may come from public
-sources like state departments of education or the US
-census. Regardless, I can help you to use data to gain insights you
-can use to better serve your clients and communities, and to
-communicate your goals and successes to funders and other
+sources like state departments of education or the US census.
+Regardless, I can help you to use data to generate insights you can
+use to communicate your goals and successes to funders and other
 stakeholders.
 
 Generally, I work on a on a fee-for-service basis, although I take on
 occasional *pro bono* work for non-profits as
-well. [Get in touch](/contact) if you would like to learn more. I will
-gladly provide references on request.
+well. [Get in touch](/contact) if you would like to learn more. 
 
 + [Intelexia, LLC](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
