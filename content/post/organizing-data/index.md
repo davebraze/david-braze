@@ -28,6 +28,8 @@ For example, you may have a collection of student test scores gathered at a part
 
 Database software (Microsoft Access is one example) is an alternative to using a spreadsheet to store and organize your data. Generally speaking, database programs are more sophisticated tools for storing tabular data. However, they typically take more know-how to set up and use than a spreadsheet, and they are less familiar to most people. So, I'm not going to talk about them here, although a lot of what I say will still apply to using databases, especially parts about variable names and documentation of variables via codebooks.
 
+Regardless of whether you use spreadsheet or database software, you should keep in mind that you (your team) will make data entry errors. I'm not going to talk about that here other than to say you should have a method in place for catching and fixing those mistakes. There are several approaches in common use (double entry, read aloud, and visual checking). The gold standard is double-entry. It takes extra time and effort, but is well worth the trouble. Your data are important! You should do everthing you can to ensure they are error free.[^3]
+
 # Variables (Columns)
 
 Your data set has two important features. It's structure is the way that it is physically laid out in a file. It's semantics is the *meaning* of the data. A data set should be laid out as a table, which is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each column contains a specific kind of data, with a specific name.
@@ -104,7 +106,7 @@ The value of any type of variable might be absent, for one reason or another. Wh
 
 # Codebooks
 
-A codebook, or data dictionary, is a separate file from your data set that describes the layout and contents the data set. Ideally, your codebook should be a plain text file.[^3] This is to make your codebook as easily accessible as possible, at the time you write it and far into the future. 
+A codebook, or data dictionary, is a separate file from your data set that describes the layout and contents the data set. Ideally, your codebook should be a plain text file.[^4] This is to make your codebook as easily accessible as possible, at the time you write it and far into the future. 
 
 Your codebook may (should) include a preface that gives details of who collected the data, for what purpose, and how it was collected. An important part of that overview will be information about who or what the data is about. 
 
@@ -149,4 +151,6 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 [^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but may be worth your time if you want to take a deeper dive into some of these issues.
 
-[^3]: I like the idea of using a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown article on wikipedia") format for a codebook. It is a plain text format, but also allows for easy conversion from plain text to well-formated pdf or docx or html (and many other formats). But, if that seems like a bridge too far for you just now, given all the other new things you're trying to get a handle on, then put it off for another day. Use whatever program is most convenient for you to create your codebook (MS Word, maybe?). 
+[^3]: Learn more about data-checking and double entry here: Barchard, K. A., & Verenikina, Y. (2013). Improving data accuracy: Selecting the best data checking technique. Computers in Human Behavior, 29(5), 1917–1922. <https://doi.org/10.1016/j.chb.2013.02.021>
+
+[^4]: I like the idea of using a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown article on wikipedia") format for a codebook. It is a plain text format, but also allows for easy conversion from plain text to well-formated pdf or docx or html (and many other formats). But, if that seems like a bridge too far for you just now, given all the other new things you're trying to get a handle on, then put it off for another day. Use whatever program is most convenient for you to create your codebook (MS Word, maybe?). 
