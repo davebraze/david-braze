@@ -38,19 +38,19 @@ Your data set has two important features. It's structure is the way that it is p
 
 Numbers, categories, and dates are the workhorse data types. The other types listed here are either much less common, or derivative from one of the first three types, or both.
 
-### ***Numeric*** variables
+### *Numeric variables*
 
 You guessed it. Numeric variables are those with numbers as values. In general, there are two types: integers and decimals. Integer variables are those that can only be a whole number, at least so far as your data set is concerned. Calendar years, for example, can only be whole numbers. Test scores are typically whole numbers (number of correct answers). Other numeric variables may require more precision and so will include a fractional/decimal component. If a variable does include a decimal component then it should always be entered with the same *precision*, the same number of digits to the right of the decimal.
 
-Also, you should be aware of things that seem like numbers, but really aren't. Numbers are generally the result of counting, or measuring, or an arithmetic operation, like division. But, consider zip codes. A zip code (like 06511 for New Haven, CT) is made up of digits, but it is not the result of a count, or a measurement, or an arithmetic operation. It's really a label, not a number at all, even though it looks like one. If you have a column of zip codes in your data set and tell your spreadsheet to treat that column as numbers, things can go wrong. For example, leading zeros will be dropped automatically. Then, what you are left with in this example (6511) is no longer a valid zip code. Similar sorts of problems can arise with ID numbers (e.g., student ID numbers), if they consist entirely of digits.
+Also, you should be aware of things that seem like numbers, but really aren't. Numbers are generally the result of counting, or measuring, or an arithmetic operation, like division. But, consider zipcodes. A zipcode (like 06511 for New Haven, CT) is made up of digits, but it is not the result of a count, or a measurement, or an arithmetic operation. It's really a label, not a number at all, even though it looks like one. If you have a column of zipcodes in your data set and tell your spreadsheet to treat that column as numbers, things can go wrong. For example, leading zeros will be dropped automatically. Then, what you are left with in this example (6511) is no longer a valid zipcode. Similar sorts of problems can arise with ID numbers (e.g., student ID numbers), if they consist entirely of digits.
 
-   Another thing to keep in mind is that some types of standardized test scores are not actually numeric, even though they may appear to be at first glance. Age- and grade-equivalent scores are typically reported as numbers, at least within the body of their range. Although, at the upper or lower ends of these scales, the tabled values may be an inequality, or other not-strictly-numeric value. For example, the maximum grade-equivalent score on the Nelson-Denny Reading Test is "16+". The "+" is a cue that we are not dealing with actual numbers. In technical terms, age- and grade-equivalent scores are not on a ratio or interval scale of measurement, and so they should not be added, subtracted, or averaged. Properly speaking, age- and grade-equivalent scores are just labels for ordered *categories*.
+Another thing to keep in mind is that some types of standardized test scores are not actually numeric, even though they may appear to be at first glance. Age- and grade-equivalent scores are typically reported as numbers, at least within the body of their range. Although, at the upper or lower ends of these scales, the tabled values may be an inequality, or other not-strictly-numeric value. For example, the maximum grade-equivalent score on the Nelson-Denny Reading Test is "16+". The "+" is a cue that we are not dealing with actual numbers. In technical terms, age- and grade-equivalent scores are not on a ratio or interval scale of measurement, and so they should not be added, subtracted, or averaged. Properly speaking, age- and grade-equivalent scores are just labels for ordered *categories*.
 
 ### *Category variables*
 
-You will often hear this type of variable referred to as a *factor*. Don't be put off by the unfamiliar terminology. A category variable is just a data type consisting of a set (often a smallish set) of named values. There might be a natural order to the values, like the names of months (or grade-equivalent test scores!), or there might not, like the suits in a deck of playing cards (or zip codes). My strong preference is to use only lower case letters when writing the names of categories, for essentially the same reasons that I use all lower case for the names of variables. For example, write (jan, feb, mar, apr, etc), not (Jan, Feb, Mar, Apr, ...). The important thing is to BE CONSISTENT. If your intention is to use 'jan' for January, then use it always; never use 'Jan' or 'january' or 'January'.
+You will often hear this type of variable referred to as a *factor*. Don't be put off by the unfamiliar terminology. A category variable is just a data type consisting of a set (often a smallish set) of named values. There might be a natural order to the values, like the names of months (or grade-equivalent test scores!), or there might not, like the suits in a deck of playing cards (or zipcodes). My strong preference is to use only lower case letters when writing the names of categories, for essentially the same reasons that I use all lower case for the names of variables. For example, write (jan, feb, mar, apr, etc), not (Jan, Feb, Mar, Apr, ...). The important thing is to BE CONSISTENT. If your intention is to use 'jan' for January, then use it always; never use 'Jan' or 'january' or 'January'.
 
-   While category variables often have a small number of values, there are exceptions. Individual identification codes are one example. A school district might easily have distinct student IDs for thousands of students.
+While category variables often have a small number of values, there are exceptions. Individual identification codes are one example. A school district might easily have distinct student IDs for thousands of students.
 
 ### *Date variables*
 
@@ -66,31 +66,37 @@ A text variable is the result you might get in response to an open-ended questio
 
 Text variables are more complicated to analyze than the preceding types and you may not often see them, but you should be aware that they exist and need to be handled differently from "category" type variables.
 
-### *Other*
+### *Other kinds of variables*
 
-Addresses, names, and such are closer to "text" type variables than anything else. I would not apply a "lower-case rule", as for category variables, for names of people, streets, towns, and so on, because capitalization might be considered a natural part of the name of a person or thing. 
+Addresses, names, and such are closer to "text" type variables than anything else. I would not apply a "lower-case rule", as for category variables, for names of people, streets, towns, and so on, because capitalization might be considered a natural part of the name of a person or thing. It is often appropriate to break down these types of information into separate fields. Names might be entered as `first.name` and `last.name`; addresses would typically be broken down into at least `street.address`, `city`, `state`, and `zipcode`. 
 
-## Naming Variables
+## Field or Variable Names
 
-Naming your variables well is a critically important first step toward documenting your data. But make no mistake, even good variable names are not sufficient documentation. Here are some simple rules for creating good variable (column) names. 
+Naming the fields (AKA variables) in a data set well is a critically important first step toward documenting your data. But make no mistake, field names alone are not sufficient documentation. Here are some simple rules for creating good field/variable/column names. 
 
-+ Variable names should contain only letters (unaccented letters of the roman alphabet), digits, and the characters "\_" or ".". The characters "." and "\_" are the only acceptable characters that are not letters or digits. With regard to letters, my strong preference is to stick to lower case letters. This is really just for the purpose of keeping things as simple as possible. If you use mixed case you end up in the position of having to decide when to use upper vs lower case, and then remembering your choice for a particular variable name when you (or your analyst) go to retype it later on. Just trust me on this one; stick to lower case.
++ Field names should contain only letters (unaccented letters of the roman alphabet), digits, and the characters "\_" or ".". The characters "." and "\_" are the only acceptable characters that are not letters or digits. With regard to letters, my strong preference is to stick to lower case letters. This is really just for the purpose of keeping things as simple as possible. If you use mixed case you end up in the position of having to decide when to use upper vs lower case, and then remembering your choice for a particular variable name when you (or your analyst) go to retype it later on. Just trust me on this one; stick to lower case.
 
-+ Variable names must *begin* with a letter.
++ Field names must *begin* with a letter.
 
-+ Choose either "." OR "\_" to use as a separator in variable names (age.months, dibels.lnf), but stick to one or the other; don't use both. If you use "." as a separator in some variable names, then use it for *all* that require a separator. My preference is for "." just because I find it easier to type than "\_". 
++ Choose either "." OR "\_" to use as a separator in variable names (`age.months`, `dibels.lnf`), but stick to one or the other; don't use both. If you use "." as a separator in some variable names, then use it for *all* that require a separator. My preference is for "." just because I find it easier to type than "\_". 
 
-+ Name binary/boolean/two-valued variables as predicates: `is.sped`, `is.ell`.
++ Use meaningful field names. Strive for clarity in choosing field names. Avoid ambiguity as much as possible. For example, prefer `birth.date` over `dob`, `student.id` over `id`. 
 
-+ For a numeric variable, its name should include an indication of its *units*: `age.months` (age in months), `age.years` (age in years), `ppvt.std` (PPVT standard score).
+Education oriented folks will often have student test scores of various sorts in their data sets. Consider a case where you are collecting *Woodcock-Johnson Tests of Achievement* scores for students. The standard form of this test battery (version IV) includes 9 different subscales, including reading comprehension, reading fluency, math problem solving, and others. Scores for each subscale are available as standard scores, percentile rankes, age-equivalent scores, grade-equivalent scores, and relative proficiency index. There are also 3 parallel forms of the test battery. That's a lot of information: (a) name of test battery, (b) version, (c) form, (d) subscale, (e) score type. You want to include all of it in your data set. It is very helpful to organize field names for related bits of information systematically. My usual approach is to use a set of fields. You'll want to capture each score type for each subscale in its own field should also include, at least, the name of the test battery. So, the field for Woodcock-Johnson (wj) reading comprehension (rcomp) standard scores (std) might be named `wj.rcomp.std`. Other types of scores for the same subscale (rcomp) could be `wj.rcomp.pr`, `wj.rcomp.ae`, `wj.rcomp.ge`, `wj.rcomp.rpi`. Using this scheme, what might you name the fields for reading fluency scores? For math problem solving?
+
+If you only will ever use one version and one form, then it is reasonable to bundle that information into the column name as well (e.g., `wj4a.rcomp.pr`, `wj4a.rcomp.ae`, `wj4a.rcomp.ge`, `wj4a.rcomp.rpi`). Alternately, you could carefully document test version and form in your [Codebook](#codebooks). See below. BUT, if your data include scores from other versions or alternate forms of the Woodcock-Johnson, will definitely want to [include that information in separate fields](#fields-to-include) (e.g., `wj.version`, `wj.form`), so that it's easily available for analysis.
+
++ At least some binary/boolean/two-valued variables can be usefully named as predicates: `is.sped`, `is.ell`. You might think of these as questions: "Is this student an English language learner (ELL)? The category labels within each column can then be `yes` and `no`. 
+
++ For a numeric field, its name should include an indication of its *units*: `age.months` (age in months), `age.years` (age in years), `ppvt.std` (PPVT standard score).
 
 You'll notice the use of abbreviations in some of the example names above (sped for "special education", iep for "individual education plan", std for "standard score"). That's fine, but don't overdo it. Variable names should be short, but not so short as to lose all meaningfulness. Ideally, variable names should be meaningful enough and memorable enough so that someone looking at your data set would have pretty good idea of what a given variable consists of, without having to go to the codebook.
 
 If your data set consists of more than one table, then it is inevitable that some variables will occur in more than one table. It is very important that you use *exactly* the same name for a given variable, in every table that includes it. Also, once you have been using a set of variable names within a given data set, it's best never to change them, even if you decide that they are not ideal.
 
-## What Variables to Include?
+## What Fields Should You Include? {#fields-to-include}
 
-If you are collecting your own data, there may be many potential variables available to you. Which ones you include in your data set will depend on a number of considerations. On the other hand, you may be using data that comes from somewhere else (e.g., a school district, a state department of education). Consider two situations. In the first, you start with questions, a purpose, a set of goals, but no data. Your job is to collect data that will let you satisfy your goals. In the second case, you have, or have access to, data that has already been collected for some purpose, maybe by you, maybe someone else, and now you want to re-use or recycle that data for some other purpose. Your first step is to evaluate the "found" data to see if it can be re-purposed to satisfy your needs.
+Ther is no one right answer to this question. If you are collecting your own data, there may be many potential variables available to you. Which ones you include in your data set will depend on a number of considerations. On the other hand, you may be using data that comes from somewhere else (e.g., a school district, a state department of education). Consider two situations. In the first, you start with questions, a purpose, a set of goals, but no data. Your job is to collect data that will let you satisfy your goals. In the second case, you have, or have access to, data that has already been collected for some purpose, maybe by you, maybe someone else, and now you want to re-use or recycle that data for some other purpose. Your first step is to evaluate the "found" data to see if it can be re-purposed to satisfy your present needs.
 
 In the first instance, you choose what data to collect in order to serve your purpose. In that case, for each potential variable you'll want to consider (1) its value in contributing to the answers you want to extract from your data, and (2) and the cost of including those particular variables. It's a very good idea to consult with an expert *before you collect any data* to make sure that the questions you want to address and the data you intend to collect are well-aligned. You really don't want to get this wrong. Data collection can be an expensive and labor-intensive process. It can be truly disheartening to spend time and money collecting data only to discover it won't serve to answer the questions you need answered.
 
@@ -142,10 +148,9 @@ Finally, a codebook includes a complete and self-explanatory description of each
 
 # Summing Up
 
-I hope I've given you enough of a grounding in data organization to avoid some common pitfalls in laying out a data set for the first time. Building a vocabulary and framework for thinking about tables, and records, and fields, and variables and how these relate to the sheets and columns and rows of a spreadsheet are an important first step in the direction of building a data set that will allow you to use it for making summary tables or graphs, or more sophisticated analyses that can speak to the questions you want to answer. Spreadsheets are a reasonable, albeit imperfect, tool for organizing small to medium sized data sets. With care, you can do a lot with a spreadsheet, but keep in mind that there are better tools out there, even if the learning curve might be a bit steep in the beginning. If you are new to data work,  you might want to seek advice from a more experienced hand before diving too deeply into a mission-critical project.
+I hope I've given you enough of a grounding in data organization to avoid some common pitfalls in laying out a data set for the first time. Building a vocabulary and framework for thinking about tables, and records, and fields, and variables and how these relate to the sheets and columns and rows of a spreadsheet are an important first step in the direction of building a data set that will allow you to use it for making summary tables or graphs, or more sophisticated analyses that can speak to the questions you want to answer. Spreadsheets are a reasonable, albeit imperfect, tool for organizing small to medium sized data sets. With care, you can do a lot with a spreadsheet, but keep in mind that there are other tools out there, even if the learning curve might be a bit steep in the beginning. If you are new to data work, you might want to seek advice from a more experienced hand before diving too deeply into a mission-critical project.
 
-<!-- ## Wide vs long formats -->
-<!-- TBD -->
+<!-- # Wide vs long formats -->
 
 <!-- # On data quality/verification -->
 
@@ -157,7 +162,9 @@ I hope I've given you enough of a grounding in data organization to avoid some c
   
 <!--   + Type:  -->
 
-<!-- + Missing Values -->
+<!-- # Missing Values -->
+
+<!-- # build organizational capacity for data work -->
 
 [^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it will be worth your time.
 
