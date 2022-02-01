@@ -7,19 +7,11 @@ title="Consulting"
 weight = 2
 +++
 
-You have data and a story to tell. I know data and can help you to
-make the most from yours. I specialize in helping organizations find
-patterns in data that will let them address their unique challenges.
+You have data and a story to tell or questions to answer. I know data and can help you to get the most from yours. I specialize in helping organizations find patterns in data that will let them address their unique challenges.
 
-Your data may be generated internally, or it may come from public
-sources like state departments of education or the US census.
-Regardless, I can help you to use data to generate insights you can
-use to communicate your goals and successes to funders and other
-stakeholders.
+Your data may be generated internally, or it may come from public sources like the US census, or a state department of education, or a proprietary resource.  Regardless, I can help you to use data to generate insights you can use to communicate your goals and successes to funders and other stakeholders.
 
-Generally, I work on a on a fee-for-service basis, although I take on
-occasional *pro bono* work for non-profits as
-well. [Get in touch](/contact) if you would like to learn more. 
+Generally, I work on a on a fee-for-service basis, although I take on occasional *pro bono* work for non-profits as well. [Get in touch](/contact) if you would like to learn more. I'm always happy to talk shop, whether or not we end up working together.
 
 + [Intelexia, LLC](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
