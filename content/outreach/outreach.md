@@ -7,11 +7,6 @@ title="Community Outreach"
 weight = 1
 +++
 
-I am happy to talk with educators, parent groups, or anyone else,
-about the foundations of reading, writing, and language. If you would
-like to learn more, please contact me.
+I am happy to talk with educators, parent groups, or non-profit organizations, about the foundations of reading, writing, and language. If you would like to learn more, please contact me.
 
-I am available to make a presentation to your group, to host a visit
-to Haskins Labs, or just to chat about research into literacy and
-language, or the connections between research and classroom practices
-and educational policy.
+If you are a non-profit organization trying to figure out how to make better use of data, no matter what your mission, I may be able to nudge you toward some helpful resources. Let's talk! 
