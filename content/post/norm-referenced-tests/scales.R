@@ -327,6 +327,6 @@ scale.plt.q  <-
               nudge_y=.01,
               size=2.25, color="black")
 
-ggsave("normal.png", scale.plt.q,
+ggsave("../../../static/img/normal.png", scale.plt.q,
        dev=png, type="cairo-png",
        width = 16*.45, height = 9*.45)
