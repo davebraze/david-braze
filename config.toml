@@ -322,10 +322,10 @@ enableGitInfo = false
   url = "/post/"
   weight = 2
 
-[[menu.main]]
-  name = "Views"
-  url = "/views/"
-  weight = 3
+# [[menu.main]]
+#   name = "Views"
+#   url = "/views/"
+#   weight = 3
 
 [[menu.main]]
   name = "Outreach"
