@@ -65,13 +65,13 @@ enableGitInfo = false
 
   # Your details.
   name = "David Braze, Ph.D."
-  role = "Consulting Scientist & Data Analyst"
+  role = "Data Analyst \n & \n Consulting Scientist"
 
   # Organizations/Affiliations. Separate multiple entries with a
   #   comma, using the form: `[ {name="Org1", url=""}, {name="Org2",
   #   url=""} ]`.
-  organizations = [ { name = "Literacy Coalition of Greater New Haven", url = "https://literacyeveryday.org" },
-  		    { name = "Haskins Laboratories", url = "https://www.haskinslabs.org/" }]
+  # organizations = [ { name = "Literacy Coalition of Greater New Haven", url = "https://literacyeveryday.org" },
+  # 		    { name = "Haskins Laboratories", url = "https://www.haskinslabs.org/" }]
 
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
