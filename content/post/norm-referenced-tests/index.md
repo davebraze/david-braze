@@ -14,8 +14,6 @@ categories = ["Test Scores"]
   focal_point = "smart"
 +++
 
-## What is a Norm-referenced Test?
-
 A norm-referenced test is one whose score furnishes an estimate of where an individual stands on the measured trait, relative to some representative group. That group is called the "normative sample" or "norm group". For an educational test, the normative sample is nothing more than a group of children, grouped by age, who have taken the test. The norm group's scores are used to determine what is typical for their age group. For most published norm-referenced tests, the norm group is intended to be a nationally representative sample. But, for each age range in the norm group (say, the kids in a single grade), the sample is often relatively small. It might be anywhere from a few dozen to a few hundred kids. 
 
 Norm-referenced scores are purely descriptive. Norms are nothing more than the distribution of performance seen in the normative sample of children, which then serves as a standard to give meaning to individual student scores for students outside the norm group. Koretz (2008), especially chapter 8, includes an overview of measurement in education, and strengths and weaknesses of different approaches. It's a nice discussion pitched at a level that will be approachable to teachers and other professional educators. I recommend the book as a whole, but that chapter will elaborate on this short summary.
