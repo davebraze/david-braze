@@ -39,7 +39,7 @@ My experience ranges over data analysis & visualization, program evaluation & de
 
 You have data and a story to tell, or questions looking for answers. I know data and can help you to get the most from yours. I specialize in helping organizations find patterns in data that will let them address their unique challenges.
 
-Your data may be generated internally, or it may come from public sources like the US census, or a state department of education, or some proprietary resource.  Regardless, I can help you to use data to generate insights you can use to communicate your goals and successes to internal or external stakeholders.
+Your data may be generated internally, or it may come from public sources like the US census, or a state department of education, or some proprietary resource.  Let me support you in using your data to communicate your goals and successes to internal or external stakeholders.
 
 I can help you to spend less time worrying about data and more time on your core mission by working with you to
 
