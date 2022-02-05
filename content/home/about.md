@@ -35,15 +35,18 @@ weight = 1
 
 I have more than 20 years experience collecting, summarizing, and analyzing data for non-profit, government and industry.
 
-My experience ranges over data analysis & visualization, program evaluation & development, project management, report & grant writing, research design, data monitoring & validation, and  findings to specialist and general audiences.
+My experience ranges over data analysis & visualization, program evaluation & development, project management, report & grant writing, research design, data monitoring & validation, and  presenting findings to specialist and general audiences.
+
+You have data and a story to tell, or questions looking for answers. I know data and can help you to get the most from yours. I specialize in helping organizations find patterns in data that will let them address their unique challenges.
+
+Your data may be generated internally, or it may come from public sources like the US census, or a state department of education, or some proprietary resource.  Regardless, I can help you to use data to generate insights you can use to communicate your goals and successes to internal or external stakeholders.
 
 I can help you to spend less time worrying about data and more time on your core mission by working with you to
 
-- make the best use of the data you have
+- make the best use of the data you have now
 - collect the best possible data going forward
 - tell compelling stories with data and data visualizations
-- craft data-driven reports for internal and external stakeholders
+- craft data-driven reports for clients or stakeholders
 - build capacity for data work that will simplify your life
 
-[Look here](/consulting) for details about how to start a no-fees-attached conversation about whether there's a match between your needs and my services. I look forward to connecting with you.
-
+[Look here](/consulting) for details on setting up a no-fees-attached conversation about whether there's a match between your needs and my services. I look forward to connecting with you.

@@ -7,11 +7,13 @@ title="Consulting"
 weight = 2
 +++
 
-You have data and a story to tell or questions to answer. I know data and can help you to get the most from yours. I specialize in helping organizations find patterns in data that will let them address their unique challenges.
+[The first step is to set up a free-of-charge discovery call.](/contact) This is a chance for me to learn more about you and your needs, and for you to learn about me. It usually takes about 30 minutes.
 
-Your data may be generated internally, or it may come from public sources like the US census, or a state department of education, or a proprietary resource.  Regardless, I can help you to use data to generate insights you can use to communicate your goals and successes to funders and other stakeholders.
+If we decide to move ahead, a second call may be needed to review your data and to pin down additional details. We would then work together to generate a contract that spells out in detail the work to be done, deliverables, time frame, and price. Generally, I charge on a *per-project* basis. Once a contract is inked, we hold a kickoff meeting and then the magic begins.
 
-Generally, I work on a on a fee-for-service basis, although I take on occasional *pro bono* work for non-profits as well. [Get in touch](/contact) if you would like to learn more. I'm always happy to talk shop, whether or not we end up working together.
+Even if you don't have immediate needs, please feel free to connect. I'm always happy to talk shop, whether or not we end up working together. I also write [blog posts](/posts) on data related matters 2-3 times a year and will happily send a notice when new ones go out.
+
+## A sampling of my clients 
 
 + [Intelexia, LLC](www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
