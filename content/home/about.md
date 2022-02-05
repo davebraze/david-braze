@@ -33,9 +33,9 @@ weight = 1
 
 +++
 
-I am a consultant with more than 20 years experience collecting, summarizing, and analyzing data for non-profit, government and industry.
+I have more than 20 years experience collecting, summarizing, and analyzing data for non-profit, government and industry.
 
-I bring extensive experience to the table, ranging over program evaluation & development, project management, grant writing, research design, data monitoring and validation, data analysis, and reporting findings to specialist and general audiences.
+My experience ranges over data analysis & visualization, program evaluation & development, project management, report & grant writing, research design, data monitoring & validation, and  findings to specialist and general audiences.
 
 I can help you to spend less time worrying about data and more time on your core mission by working with you to
 
@@ -45,5 +45,5 @@ I can help you to spend less time worrying about data and more time on your core
 - craft data-driven reports for internal and external stakeholders
 - build capacity for data work that will simplify your life
 
-[Find out more.](/consulting)
+[Look here](/consulting) for details about how to start a no-fees-attached conversation about whether there's a match between your needs and my services. I look forward to connecting with you.
 
