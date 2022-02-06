@@ -16,7 +16,7 @@ categories = ["Data Work"]
 
 This article is a primer on how to tabulate, organize, and document data for people who don't have much experience with it.[^1] I will introduce you to some basic concepts and terms that are common to data work and data organization. Any examples will have an educational tint, but that's just because I often work with educators. The framework sketched here will apply in most other kinds of data. I'll assume spreadsheet software is the tool you will use for entering and organizing the data, because spreadsheets are widely available and familiar to most people. But, I want to warn you that problems can arise through the use of spreadsheets for data work. I won't go into a lot of detail about those problems here, but following these guidelines will help to avoid many of them.[^2] So why Spreadsheets, then? Because they're easily available and familiar to most people, and that's is reason enough to start with them. What's more, pretty much everything I say here applies regardless of the type of software you use for organizing your data. My plan is to touch on those issues that come up most often in conversations with clients about their data. But I do want to keep this short, so I can only cover a part of what you might want to know before you begin collecting and documenting data of your own. 
 
-# Spreadsheets and Tables
+## Spreadsheets and Tables
 
 Spreadsheets are familiar to almost everyone and so they make a convenient tool for organizing your data. Two popular choices of spreadsheet programs are Microsoft Excel and Google Sheets, although there are others. All have very similar capabilities, and I'm not going to talk about their relative strengths and weakensses. Either one will get the job done and you should use whichever is most comfortable for you. But this post is not a tutorial on using spreadsheet software for summarization, graphing, analysis, or what-have-you. My focus here is much more basic. I will sketch some *best practices* for organizing, entering, and documenting your data using spreadsheets. This is so that when the time comes to create summary tables or graphs, it can be done efficiently and confidently. You may be making those summaries in the spreadsheet program itself, or you might be shipping your data off to an analyst who will create summaries for you, perhaps along with other analyses. If you are farming out some aspects of your data work to others, it is especially important that your data be well-organized and well-documented. 
 
@@ -30,15 +30,15 @@ Database software (Microsoft Access is one example) is an alternative to using a
 
 Regardless of whether you use spreadsheet or database software, you should keep in mind that you (your team) will make data entry errors. I'm not going to talk about that here other than to say you should have a method in place for catching and fixing those mistakes. There are several approaches in common use (double entry, read aloud, and visual checking). The gold standard is double-entry. It takes extra time and effort, but is well worth the trouble. Your data are important! You should do everthing you can to maximize its accuracy.[^3]
 
-# Fields/Variables (Columns)
+## Fields/Variables (Columns)
 
 Your data set has two important features. It's structure is the way that it is physically laid out in a file. It's semantics is the *meaning* of the data. A data set should be laid out as a table, which is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each column contains a specific kind of data, with a specific meaning and a specific name. For example, all dates are dates, whether a birth date or the date a test is given. They are the same *kind* of data, but they *mean* different things. Their names should give an indication of both the type and the meaning of a field (e.g., `birth.date`, `test.date`). 
 
-## Kinds of Variables
+### Kinds of Variables
 
 Numbers, categories, and dates are the workhorse data types. The other types listed here are either much less common, or derivative from one of the first three types, or both.
 
-### *Numeric variables*
+#### *Numeric variables*
 
 You guessed it. Numeric variables are those with numbers as values. In general, there are two types: integers and decimals. Integer variables are those that can only be a whole number, at least so far as your data set is concerned. Calendar years, for example, can only be whole numbers. Test scores are typically whole numbers (number of correct answers). Other numeric variables may require more precision and so will include a fractional/decimal component. If a variable does include a decimal component then it should always be entered with the same *precision*, the same number of digits to the right of the decimal.
 
@@ -46,31 +46,31 @@ Also, you should be aware of things that seem like numbers, but really aren't. N
 
 Another thing to keep in mind is that some types of standardized test scores are not actually numeric, even though they may appear to be at first glance. Age- and grade-equivalent scores are typically reported as numbers, at least within the body of their range. Although, at the upper or lower ends of these scales, the tabled values may be an inequality, or other not-strictly-numeric value. For example, the maximum grade-equivalent score on the Nelson-Denny Reading Test is "16+". The "+" is a cue that we are not dealing with actual numbers. In technical terms, age- and grade-equivalent scores are not on a ratio or interval scale of measurement, and so they should not be added, subtracted, or averaged. Properly speaking, age- and grade-equivalent scores are just labels for ordered *categories*.
 
-### *Category variables*
+#### *Category variables*
 
 You will often hear this type of variable referred to as a *factor*. Don't be put off by the unfamiliar terminology. A category variable is just a data type consisting of a set (often a smallish set) of named values. There might be a natural order to the values, like the names of months (or grade-equivalent test scores!), or there might not, like the suits in a deck of playing cards (or zipcodes). My strong preference is to use only lower case letters when writing the names of categories, for essentially the same reasons that I use all lower case for the names of variables. For example, write (jan, feb, mar, apr, etc), not (Jan, Feb, Mar, Apr, ...). The important thing is to BE CONSISTENT. If your intention is to use 'jan' for January, then use it always; never use 'Jan' or 'january' or 'January'.
 
 While category variables often have a small number of values, there are exceptions. Individual identification codes are one example. A school district might easily have distinct student IDs for thousands of students.
 
-### *Date variables*
+#### *Date variables*
 
 Dates are a surprisingly complicated type of data. An important thing to remember when working with dates is that you should be absolutely consistent in the format you use for entering them into your spreadsheet. Choose a format that is unambiguous and clear and then always use that format and no other. Sadly, Excel often makes a mess of dates (it's trying to be helpful but, you know...). One way to avoid that is to tell your spreadsheet to format date columns as "text" when you first set up your table (after you put your column names in the first row, before you enter any data!). In Excel, you can do this by right clicking the letter at the top of a date column, select "format cells" from the drop-down menu, and select "text". The process is similar in other spreadsheet programs. Regardless, I recommend that when entering dates you use a format like `jan 25, 2001`. Avoid representing the month as a number. In my experience, formats like 01/25/2001 are more likely to lead to entry errors. In many cases you may only need to include a year, or a month and year, in your data. 
 
-### *Binary variables*
+#### *Binary variables*
 
 A binary variable is one which can have one of two values. It is really a special case of category variable. It might appear to be numeric, in which case the values will typically be 1 and 0 (but not always). It might be a more obvious category variable with values like `yes` and `no` or `true` and `false`, or even `female` and `male`. In past times, it was not unusual for binary category variables, "female" and "male" for example, to be entered into a data file as numbers. For example, a `1` might correspond to "female" and a `0` to "male". There were good reasons to do this, when analysis programs were simpler and less powerful, but these days it's not necessary. What's more, using numbers for category labels can lead to errors. Data entry errors can arise because translation from a verbal label to numerical label makes it more difficult for whomever is doing data entry to keep things straight. But errors can also arise when interpreting numerical labels in an existing data set because the numbers generally don't have an intuitive correspondence to their meaning. *Use meaningful labels for categories.*
 
-### *Text variables*
+#### *Text variables*
 
 A text variable is the result you might get in response to an open-ended question or other prompt on a questionnaire. The actual text in a text variable will rarely be exactly the same from one instance to another. Because text variables are typically the result of an individual's choices about how to express themselves on a particular topic, you should accept whatever they give you. Make no changes or "corrections" at all. A text variable can range from a few words, to a short paragraph, to a much longer bit of text. In the case of online questionnaires, there will often be a word limit (or character limit) to the response. If so, then that limit should be noted in your codebook entry for the relevant text variable. 
 
 Text variables are more complicated to analyze than the preceding types and you may not often see them, but you should be aware that they exist and need to be handled differently from "category" type variables.
 
-### *Other kinds of variables*
+#### *Other kinds of variables*
 
 Addresses, names, and such are closer to "text" type variables than anything else. I would not apply a "lower-case rule", as for category variables, for names of people, streets, towns, and so on, because capitalization might be considered a natural part of the name of a person or thing. It is often appropriate to break down these types of information into separate fields. Names might be entered as `first.name` and `last.name`; addresses would typically be broken down into at least `street.address`, `city`, `state`, and `zipcode`. 
 
-## Field or Variable Names
+### Field or Variable Names
 
 Naming the fields (AKA variables) in a data set well is a critically important first step toward documenting your data. But make no mistake, field names alone are not sufficient documentation. I'll sketch out some simple rules for creating reasonable field/variable/column names. However, the first principle is that field names should be clear and unambiguous. Keep in mind that the name of each field stands in relationship to the kind of information it contains, but also in relationship to other field names in the data set.
 
@@ -94,7 +94,7 @@ You'll notice the use of abbreviations in some of the example names above (sped 
 
 If your data set consists of more than one table, then it is inevitable that some variables will occur in more than one table. It is very important that you use *exactly* the same name for a given variable, in every table that includes it. Also, once you have been using a set of variable names within a given data set, it's best never to change them, even if you decide that they are not ideal.
 
-## What Fields Should You Include? {#fields-to-include}
+### What Fields Should You Include? {#fields-to-include}
 
 Ther is no one right answer to this question. If you are collecting your own data, there may be many potential variables available to you. Which ones you include in your data set will depend on a number of considerations. On the other hand, you may be using data that comes from somewhere else (e.g., a school district, a state department of education). Consider two situations. In the first, you start with questions, a purpose, a set of goals, but no data. Your job is to collect data that will let you satisfy your goals. In the second case, you have, or have access to, data that has already been collected for some purpose, maybe by you, maybe someone else, and now you want to re-use or recycle that data for some other purpose. Your first step is to evaluate the "found" data to see if it can be re-purposed to satisfy your present needs.
 
@@ -118,11 +118,11 @@ So, here are some of the fields you want to have in a data set, whether you're c
   
 There will certainly be other information that is specific to the questions you want to address with your data. It is better to include too much than too little in your data set. It is not always possible to predict in advance what may be useful. But, it is always worth thinking carefully about what variables to include. 
 
-## Missing Values
+### Missing Values
 
 The value of any type of variable might be absent, for one reason or another. When that happens, one option is to simply leave that cell of the spreadsheet empty. In fact, that is the only choice that works if you are going to summarize your data inside the spreadsheet itself. My preference is to use an explicit code for missing values. A couple of commonly used choices are "`NA`" and "`.`" (leave off the quotation marks). In other instances, you may find a data set that uses a specific numeric value to represent missingness. This might be a negative number or a value like 999, that can't occur naturally as part of the data. Using numeric values to represent missingness is an especially bad idea. DO NOT USE A NUMBER TO REPRESENT MISSING VALUES. 
 
-# Codebooks
+## Codebooks
 
 A codebook, or data dictionary, is a separate file from your data set that describes the layout and contents the data set. Ideally, your codebook should be a plain text file.[^4] This is to make your codebook as easily accessible as possible, at the time you write it and far into the future. 
 
@@ -146,7 +146,7 @@ Finally, a codebook includes a complete and self-explanatory description of each
     >
     > Good, R. H., Kaminski, R., Dewey, E. N., Wallin, J., Powell-Smith, K. A., & Latimer, R. J. (2013). Dynamic Indicators of Basic Early Literacy Skills (DIBELS) Next Technical Manual. Eugene, OR: Dynamic Measurement Group.
 
-# Summing Up
+## Summing Up
 
 I hope I've given you enough of a grounding in data organization to avoid some common pitfalls in laying out a data set for the first time. Building a vocabulary and framework for thinking about tables, and records, and fields, and variables and how these relate to the sheets and columns and rows of a spreadsheet are an important first step in the direction of building a data set that will allow you to use it for making summary tables or graphs, or more sophisticated analyses that can speak to the questions you want to answer. Spreadsheets are a reasonable, albeit imperfect, tool for organizing small to medium sized data sets. With care, you can do a lot with a spreadsheet, but keep in mind that there are other tools out there, even if the learning curve might be a bit steep in the beginning. If you are new to data work, you might want to seek advice from a more experienced hand before diving too deeply into a mission-critical project.
 
@@ -166,10 +166,10 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 <!-- # build organizational capacity for data work -->
 
-[^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it will be worth your time.
+[^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it may be worth your time.
 
-[^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but may be worth your time if you want to take a deeper dive into some of these issues.
+[^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but you may want to take a look if you are interested in a deeper dive into some of these issues.
 
 [^3]: Learn more about data-checking and double entry here: Barchard, K. A., & Verenikina, Y. (2013). Improving data accuracy: Selecting the best data checking technique. Computers in Human Behavior, 29(5), 1917–1922. <https://doi.org/10.1016/j.chb.2013.02.021>
 
-[^4]: I like the idea of using a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown article on wikipedia") format for a codebook. It is a plain text format that also allows for easy conversion from plain text to well-formated pdf or docx or html (and many other formats). But, if that seems like a bridge too far for you just now, given all the other new things you're trying to get a handle on, then put it off for another day. Use whatever program is most convenient for you to create your codebook (MS Word, maybe?). 
+[^4]: I like the idea of using a [markdown](https://en.wikipedia.org/wiki/Markdown "markdown article on wikipedia") format for a codebook. It is a plain text format that also allows for easy conversion from plain text to well-formated pdf or docx or html (and many other formats). But, if that seems like a bridge too far for you just now, given all the other new things you're trying to get a handle on, then put it off for another day. Use whatever program is most convenient for you to create your codebook (MS Word? Google Docs?). 
