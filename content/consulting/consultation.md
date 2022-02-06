@@ -28,7 +28,7 @@ Even if you don't have immediate needs, please feel free to connect. I'm always 
   Special Education. I provided guidance on research design &
   analysis, project direction, and administration.
 
-+ [Literacy How](https://www.literacyhow.com) and
++ [Literacy How](https://www.literacyhow.org) and
   [New Haven Reads](https://www.NewHavenReads.org).
   <br>Analytic consultant for New Haven Reads, a 501c3 non-profit (New
   Haven Reads). Provided analysis of client data for report on
