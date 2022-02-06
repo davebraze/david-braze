@@ -15,7 +15,7 @@ Even if you don't have immediate needs, please feel free to connect. I'm always 
 
 ## A sampling of my clients 
 
-+ [Intelexia, LLC](www.intelexia.com) and the *Red de Escuelas
++ [Intelexia, LLC](https://www.intelexia.com) and the *Red de Escuelas
   de Aprendizaje de la Provincia de Buenos Aires*, Argentina.
   <br>Advise on study design, data collection, and analysis for program
   efficacy study carried out in collaboration with the *Red de Escuelas de
@@ -28,12 +28,12 @@ Even if you don't have immediate needs, please feel free to connect. I'm always 
   Special Education. I provided guidance on research design &
   analysis, project direction, and administration.
 
-+ [Literacy How](www.literacyhow.com) and
-  [New Haven Reads](www.NewHavenReads.org).
++ [Literacy How](https://www.literacyhow.com) and
+  [New Haven Reads](https://www.NewHavenReads.org).
   <br>Analytic consultant for New Haven Reads, a 501c3 non-profit (New
   Haven Reads). Provided analysis of client data for report on
   program reach and effectiveness to funder as part of grant wrap-up.
 
-+ [Read to Grow](www.readtogrow.org).
++ [Read to Grow](https://www.readtogrow.org).
   <br>Provided *pro bono* advice on standards for data collection and
   storage.
