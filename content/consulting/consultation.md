@@ -11,7 +11,7 @@ weight = 2
 
 If we decide to move ahead, a second call may be needed to review your data and to pin down additional details. We would then work together to generate a contract that spells out in detail the work to be done, deliverables, time frame, and price. Generally, I bid jobs on a *per-project* basis, so all client costs are spelled out up-front. Once a contract is inked, we hold a kickoff meeting and then the magic begins.
 
-Even if you don't have immediate needs, please feel free to connect. I'm always happy to talk shop, whether or not we end up working together. I also write [blog posts](/posts) on data related matters 2-3 times a year and will happily send a notice when new ones go out.
+Even if you don't have immediate needs, please feel free to connect. I'm always happy to talk shop, whether or not we end up working together. I also write [blog posts](/post) on data or education or related matters a couple of times a year and will happily send a notice when new ones go out.
 
 ## A sampling of my clients 
 
