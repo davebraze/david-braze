@@ -15,6 +15,9 @@ tags = ["language", "reading", "speech", "phonics", "phoneme", "alphabetic princ
 categories = ["Language & Reading"]
 
 [image]
+  # look into inserting via hugo shortcodes within the markdown, e.g. {{ $image := $image.Fit "600x400" }}
+  # also see: https://gohugo.io/content-management/image-processing/ 
+  #
   # To use, add an image named `featured.jpg/png` to your page's folder.
   caption = ""
   # Focal point (optional)
