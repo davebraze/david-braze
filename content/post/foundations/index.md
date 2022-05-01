@@ -23,7 +23,7 @@ categories = ["Language & Reading"]
 
 +++
 
-In August of 2020, I gave an eagle's eye introduction to language and its connections to reading for the volunteer reading tutors at [New Haven Reads](https://newhavenreads.org/). NHR has put video of the talk up on their YouTube channel (embedded below), making it my YouTube debut. You can view the slides online [here](/files/foundations-lang-lit-NHR.html). Or, you can download them [here](/files/foundations-lang-lit-NHR.zip). The download is a zip file which you will need to unzip. You can then view the resulting html file in your web browser. 
+In August of 2020, I gave an eagle's eye introduction to language and its connections to reading skill for the volunteer tutors at [New Haven Reads](https://newhavenreads.org/). NHR has put video of the talk up on their YouTube channel (embedded below), making it my YouTube debut. You can view the slides online [here](/files/foundations-lang-lit-NHR.html). Or, you can download them [here](/files/foundations-lang-lit-NHR.zip). The download is a zip file which you will need to unzip. You can then view the slides in your web browser. 
 
 The talk is divided into these sections:
 
