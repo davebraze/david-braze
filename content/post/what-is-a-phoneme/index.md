@@ -18,7 +18,7 @@ categories = ["Language & Reading"]
 
 
 The word "phoneme" gets tossed around a lot in talk of early reading
-instruction. It is an important concept in relation to phonics based
+instruction. It is an important concept in relation to phonics-based
 approaches to the subject. Reading teachers are typically taught that
 a phoneme is a "speech sound",[^1] but that isn't quite right. In
 fact, a phoneme is better defined as a **set** of speech sounds. So, a
