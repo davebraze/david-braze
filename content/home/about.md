@@ -49,4 +49,4 @@ I can help you to spend less time worrying about data and more time on your core
 - craft data-driven reports for clients or stakeholders
 - build capacity for data work that will simplify your life
 
-[Look here](/consulting) for details on setting up a no-fees-attached conversation about whether there's a match between your needs and my services. I look forward to connecting with you.
+[Look here]({{< ref "consulting">}}) for details on setting up a no-fees-attached conversation about whether there's a match between your needs and my services. I look forward to connecting with you.

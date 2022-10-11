@@ -7,8 +7,6 @@ title="Consulting"
 weight = 2
 +++
 
-({{< ref "contact">}})
-
 [The first step is to set up a free-of-charge discovery call.]({{< ref "contact">}}) This is a chance for me to learn more about you and your needs, and for you to learn about me. It usually takes about 30 minutes.
 
 If we decide to move ahead, a second call may be needed to review your data and to pin down additional details. We would then work together to generate a contract that spells out in detail the work to be done, deliverables, time frame, and price. Generally, I bid jobs on a *per-project* basis, so all client costs are spelled out up-front. Once a contract is inked, we hold a kickoff meeting and then the magic begins.

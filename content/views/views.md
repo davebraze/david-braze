@@ -34,4 +34,4 @@ reading, and its implications for education, is ***an important goal
 of my research***.
 
 I have more thoughts on language, reading, educational practice and
-policy, research, and other topics. Find them in my [Blog](/post).
+policy, research, and other topics. Find them in my [Blog]({{< ref "post">}}).
