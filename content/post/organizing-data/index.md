@@ -173,7 +173,8 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 <!-- tidy data and database normal forms -->
 <!-- Ref Wickham tidy data book -->
-<!-- also  -->
+<!-- also  tidy data paper http://dx.doi.org/10.18637/jss.v059.i10 -->
+
 [^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it may be worth your time.
 
 [^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but you may want to take a look if you are interested in a deeper dive into some of these issues.
