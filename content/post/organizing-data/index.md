@@ -30,9 +30,14 @@ Database software (Microsoft Access is one example) is an alternative to using a
 
 Regardless of whether you use spreadsheet or database software, you should keep in mind that you (your team) will make data entry errors. I'm not going to talk about that here other than to say you should have a method in place for catching and fixing those mistakes. There are several approaches in common use (double entry, read aloud, and visual checking). The gold standard is double-entry. It takes extra time and effort, but is well worth the trouble. Your data are important! You should do everything you can to maximize its accuracy.[^3]
 
-## Fields/Variables (Columns)
+## Records (rows) and Variables (columns)
 
-Your data set has two important features. Its structure is the way that it is physically laid out in a file. Its semantics is the *meaning* of the data. A data set should be laid out as a table (or set of tables). Each table is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each field/column contains a specific kind of data, with a specific meaning and a specific name. For example, all dates are dates, whether a birth date or the date a test is given. They are the same *kind* of data, but they *mean* different things. Their names should give an indication of both the type and the meaning of a field (e.g., `birth.date`, `test.date`). 
+Your data set has two important features. Its structure is the way that it is physically laid out in a file. Its semantics is the *meaning* of the data. A data set should be laid out as a table (or set of tables). Each table is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each variable/column contains a specific kind of data, with a specific meaning and a specific name. For example, all dates are dates, whether a birth date or the date a test is given. They are the same *kind* of data, but they *mean* different things. Their names should give an indication of both the type and the meaning of a field (e.g., `birth.date`, `test.date`). 
+
+Keeping your data *tidy* means that:
+  1. Each variable is a single column.
+  2. Each record is in its own row.
+  3. Each kind of thing has its own table. 
 
 ### Kinds of Variables
 
@@ -166,6 +171,9 @@ I hope I've given you enough of a grounding in data organization to avoid some c
 
 <!-- # build organizational capacity for data work -->
 
+<!-- tidy data and database normal forms -->
+<!-- Ref Wickham tidy data book -->
+<!-- also  -->
 [^1]: While writing this blog post, I came across a [paper by Karl Broman and Kara Woo](https://dx.doi.org/10.1080/00031305.2017.1375989 "Broman & Woo article") that covers many of these same issues. It is pitched more toward data scientists and other professional analysts, but if you are hungry for more after reading this blog, then it may be worth your time.
 
 [^2]: Here's a link to an [interview with data scientist and developer Jenny Bryan](https://www.youtube.com/watch?v=NkosFVrPbzw "Jenny Bryan interview on youtube"), where she goes into some depth on the problems with spreadsheets from the analyst's perspective. It's very much "inside baseball", but you may want to take a look if you are interested in a deeper dive into some of these issues.
