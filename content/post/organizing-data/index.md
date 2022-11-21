@@ -1,5 +1,5 @@
 +++
-title = "Organizing Data"
+title = "Organizing Data: a primer"
 date = 2020-05-01T00:00:00
 lastmod = 2020-05-01T00:00:00
 draft = false
@@ -32,7 +32,7 @@ Regardless of whether you use spreadsheet or database software, you should keep 
 
 ## Fields/Variables (Columns)
 
-Your data set has two important features. Its structure is the way that it is physically laid out in a file. Its semantics is the *meaning* of the data. A data set should be laid out as a table, which is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each column contains a specific kind of data, with a specific meaning and a specific name. For example, all dates are dates, whether a birth date or the date a test is given. They are the same *kind* of data, but they *mean* different things. Their names should give an indication of both the type and the meaning of a field (e.g., `birth.date`, `test.date`). 
+Your data set has two important features. Its structure is the way that it is physically laid out in a file. Its semantics is the *meaning* of the data. A data set should be laid out as a table (or set of tables). Each table is a collection of records (rows). Each row is a collection of fields (AKA variables), some fields contain quantitative values (numbers) some contain qualitative values (categories or labels), some will contain other kinds of values. Those fields correspond to the columns of your data table. Each field/column contains a specific kind of data, with a specific meaning and a specific name. For example, all dates are dates, whether a birth date or the date a test is given. They are the same *kind* of data, but they *mean* different things. Their names should give an indication of both the type and the meaning of a field (e.g., `birth.date`, `test.date`). 
 
 ### Kinds of Variables
 
