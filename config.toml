@@ -14,7 +14,7 @@ title = "David Braze"
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 
-copyright = '&copy; 2011-2022 &middot; The content of this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons <br>Attribution-NonCommercial-ShareAlike 4.0 International License</a>'
+copyright = '&copy; 2011-2023 &middot; The content of this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons <br>Attribution-NonCommercial-ShareAlike 4.0 International License</a>'
 
 theme = "academic"
 enableEmoji = true # emoji cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/
@@ -292,10 +292,10 @@ enableGitInfo = false
   #   icon_pack = "fab"
   #   link = "https://orcid.org/0000-0002-3899-0586"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/davidbraze"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fab"
+  #   link = "https://twitter.com/davidbraze"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -313,9 +313,9 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Consulting"
-  url = "/consulting/"
-  weight = 1
+  # name = "Consulting"
+  # url = "/consulting/"
+  # weight = 1
 
 [[menu.main]]
   name = "Blog"
