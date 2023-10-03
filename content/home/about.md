@@ -33,10 +33,10 @@ weight = 1
 
 +++
 
-I have more than 20 years experience collecting and analyzing data for industry, government, and non-profits, and I am looking for a new opportunity and a new challenge for the next phase of my life in data.
+I am looking for a new opportunity and new challenges for the next phase of my life in data. 
 
-My experience ranges over data monitoring & validation, data cleaning, statistical analysis & data visualization, ad hoc and canned reports, and communicating data findings to specialist and general audiences.
+With 20 years collecting and analyzing data for industry, government, and non-profits, I have deep experience in data monitoring & validation, data cleaning, statistical analysis & data visualization, ad hoc and canned reports, and communicating data findings to specialist and general audiences.
 
 You have data and questions looking for answers, or a story to tell. I know data and can help you to get the most from yours. I specialize in finding patterns in data that help organizations address their unique challenges.
 
-You can look at my [LinkedIn profile](https://www.linkedin.com/in/davebraze/) for more details. Let's talk.
+You'll find more details in [my LinkedIn profile](https://www.linkedin.com/in/davebraze/). Let's talk.
